@@ -134,9 +134,9 @@ function assetManifest(): Plugin {
 }
 
 export default defineConfig(({ mode }) => ({
-    // The "site" build targets the subfolder deploy (npm run build:site); the
-    // folder can still be overridden with ICON_BROWSER_BASE.
-    base: process.env.ICON_BROWSER_BASE ?? (mode === "site" ? "/iconbrowser/" : "/"),
+    // Subfolder deploy (npm run build:site). Change the folder with
+    // ICON_BROWSER_BASE=/icons/ or by passing --base=/icons/ to the build.
+    base: process.env.ICON_BROWSER_BASE ?? (mode === "site" ? "/icons/" : "/"),
     plugins: [ignoreEndpoint(), dataFiles(), assetManifest()],
     server: { host: "localhost", watch: { ignored: ["**/data/ignore.txt"] } },
     preview: { host: "localhost" }

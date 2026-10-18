@@ -1,7 +1,8 @@
-// Resolves the path the app's data files are served under. The hosting page can
-// point at it (Serenity sets <link id="ApplicationPath" href="…">): the app then
-// lives at "<ApplicationPath>/iconbrowser/". Without a hint, the directory of the
-// current document is used, so a build loaded straight from its folder works.
+// The path the app's data files are served under. The Vite `base` (e.g.
+// "/icons/", set with `--base=/icons/` or ICON_BROWSER_BASE) is authoritative; a
+// hosting page can additionally prefix it (Serenity sets
+// <link id="ApplicationPath" href="…">), so the app can live at
+// "<ApplicationPath>/icons/" — e.g. ApplicationPath "/" + base "/icons/".
 function hintedBase(): string | undefined {
     const link = document.getElementById("ApplicationPath");
     const href = link?.getAttribute("href");
@@ -10,18 +11,17 @@ function hintedBase(): string | undefined {
     return typeof global === "string" ? global : undefined;
 }
 
-const FOLDER = "iconbrowser/";
-
 export const BASE: string = (() => {
+    const buildBase = import.meta.env.BASE_URL || "/";
+    const hint = hintedBase();
     try {
-        const hint = hintedBase();
-        if (hint) {
-            const root = hint.endsWith("/") ? hint : `${hint}/`;
-            return new URL(`${root}${FOLDER}`, document.baseURI).pathname;
-        }
-        const dir = new URL(".", document.baseURI).pathname;
-        return dir.endsWith("/") ? dir : `${dir}/`;
+        const raw =
+            hint && buildBase.startsWith("/")
+                ? `${hint.endsWith("/") ? hint : `${hint}/`}${buildBase.slice(1)}`
+                : buildBase;
+        const url = new URL(raw, document.baseURI);
+        return url.pathname.endsWith("/") ? url.pathname : `${url.pathname}/`;
     } catch {
-        return `/${FOLDER}`;
+        return buildBase;
     }
 })();
