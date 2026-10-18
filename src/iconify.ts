@@ -1,5 +1,5 @@
 // Iconify-compatible helpers that turn an icon JSON entry into a ready-to-paste
-// `--svg` custom property value for the generic svg-icon-* classes.
+// `--sv` custom property value for the generic sv-* classes.
 //
 // Mirrors @iconify/utils behaviour:
 //   iconToSVG(body) -> <svg xmlns=".." viewBox="l t w h" width="w" height="h">body</svg>
@@ -106,7 +106,7 @@ export function iconToInline(
 
 // Iconify set prefixes usually already drop the trailing "icon"/"icons"
 // (e.g. "tabler"); strip it if a set name still carries it so we don't end up
-// with ".svg-icon-tabler-icons-...".
+// with ".sv-tabler-icons-...".
 export function setClassSuffix(prefix: string): string {
     const stripped = prefix.replace(/[-_]?icons?$/i, "");
     return stripped || prefix;
@@ -118,6 +118,6 @@ export function formatRule(
     url: string,
     mode: "icon" | "bg" = "icon"
 ): string {
-    const base = mode === "bg" ? "svg-bg-icon" : "svg-icon";
-    return `.${base}-${setClassSuffix(prefix)}-${name} { --svg: ${url}; }`;
+    const base = mode === "bg" ? "svbg" : "sv";
+    return `.${base}-${setClassSuffix(prefix)}-${name} { --sv: ${url}; }`;
 }

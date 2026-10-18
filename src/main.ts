@@ -151,7 +151,7 @@ async function itemBody(item: IconItem): Promise<IconBody | undefined> {
 }
 
 function glyphFor(item: IconItem): string {
-    return item.style === "multicolor" ? "svg-bg-icon" : "svg-icon";
+    return item.style === "multicolor" ? "svbg" : "sv";
 }
 
 function iconUrlFor(item: IconItem, body: IconBody): string {
@@ -694,7 +694,7 @@ const themeIconNames: Record<ThemeMode, string> = {
 function setChrome(el: Element | null, name: string, mask = true): void {
     const icon = CHROME_ICONS[name];
     if (el instanceof HTMLElement && icon) {
-        el.style.setProperty("--svg", iconToUrl(icon, { width: 24, height: 24 }, mask));
+        el.style.setProperty("--sv", iconToUrl(icon, { width: 24, height: 24 }, mask));
     }
 }
 

@@ -5,8 +5,8 @@ remain the property of their respective authors. This browser displays them
 locally; the copied CSS embeds the icon geometry as a data URI.
 
 The class prefix is what the icon set prefix maps to in the copied
-`.svg-icon-<prefix>-<name>` rules. Multicolor (palette) icons use
-`.svg-bg-icon-<prefix>-<name>` instead (background mode, keeping their colors).
+`.sv-<prefix>-<name>` rules. Multicolor (palette) icons use
+`.svbg-<prefix>-<name>` instead (background mode, keeping their colors).
 
 ## Iconify
 
@@ -21,90 +21,90 @@ The class prefix is what the icon set prefix maps to in the copied
 
 | Class prefix | Icon set | Icons | License | Author |
 | --- | --- | ---: | --- | --- |
-| `svg-icon-tabler-*` | Tabler Icons 3.49.0 | 6,238 | MIT | Paweł Kuna |
-| `svg-icon-la-*` | Line Awesome 1.2.1 | 1,544 | Apache-2.0 | Icons8 |
-| `svg-icon-bi-*` | Bootstrap Icons 1.13.1 | 2,078 | MIT | The Bootstrap Authors |
-| `svg-icon-iconmind-*` | IconMind | 31,722 | MIT | IconMind |
-| `svg-icon-iconoven-*` | IconOven | 18,236 | MIT | Appic Marketing |
-| `svg-icon-lucide-*` | Lucide | 1,891 | ISC | Lucide Contributors |
-| `svg-icon-ph-*` | Phosphor 2.1.1 | 9,072 | MIT | Phosphor Icons |
-| `svg-icon-ri-*` | Remix Icon 4.8.0 | 3,188 | Apache-2.0 | Remix Design |
-| `svg-icon-mdi-*` | Material Design Icons | 7,447 | Apache-2.0 | Pictogrammers |
-| `svg-icon-carbon-*` | Carbon 11.89.0 | 2,631 | Apache-2.0 | IBM |
-| `svg-icon-iconoir-*` | Iconoir 7.12.1 | 1,671 | MIT | Luca Burgio |
-| `svg-icon-heroicons-*` | HeroIcons 2.2.0 | 1,288 | MIT | Refactoring UI Inc |
-| `svg-icon-ion-*` | IonIcons 8.0.13 | 1,357 | MIT | Ben Sperry |
-| `svg-icon-octicon-*` | Octicons | 774 | MIT | GitHub |
-| `svg-icon-fluent-color-*` | Fluent UI System Color Icons 1.1.316 | 890 | MIT | Microsoft Corporation |
-| `svg-icon-fluent-*` | Fluent UI System Icons 1.1.344 | 19,900 | MIT | Microsoft Corporation |
-| `svg-icon-ic-*` | Google Material Icons 1.0.32 | 10,955 | Apache-2.0 | Material Design Authors |
-| `svg-icon-material-symbols-light-*` | Material Symbols Light | 15,793 | Apache-2.0 | Google |
-| `svg-icon-line-md-*` | Material Line Icons 3.0.5 | 1,218 | MIT | Vjacheslav Trushkin |
-| `svg-icon-boxicons-*` | Boxicons 1.0.5 | 3,768 | MIT | Boxicons |
-| `svg-icon-mingcute-*` | MingCute Icon | 3,320 | Apache-2.0 | MingCute Design |
-| `svg-icon-keyline-icons-*` | Keyline Icons | 11,480 | MIT | Keyline Icons |
-| `svg-icon-lucide-extended-*` | Lucide Extended | 2,654 | ISC | Applifted |
-| `svg-icon-lucide-lab-*` | Lucide Lab | 373 | ISC | Lucide Contributors |
-| `svg-icon-uil-*` | Unicons 4.2.0 | 1,215 | Apache-2.0 | Iconscout |
-| `svg-icon-tdesign-*` | TDesign Icons | 2,356 | MIT | TDesign |
-| `svg-icon-si-*` | Sargam Icons | 1,299 | MIT | Abhimanyu Rana |
-| `svg-icon-majesticons-*` | Majesticons 2.1.3 | 760 | MIT | Gerrit Halfmann |
-| `svg-icon-gg-*` | css.gg 2.1.4 | 704 | MIT | Astrit |
-| `svg-icon-flowbite-*` | Flowbite Icons | 751 | MIT | Themesberg |
-| `svg-icon-vadivam-*` | Vadivam 0.0.45 | 508 | MIT | Praveen Juge |
-| `svg-icon-proicons-*` | ProIcons 4.13.7 | 544 | MIT | ProCode |
-| `svg-icon-meteor-icons-*` | Meteor Icons | 409 | MIT | zkreations |
-| `svg-icon-prime-*` | Prime Icons | 313 | MIT | PrimeTek |
-| `svg-icon-fe-*` | Feather Icon 1.0.2 | 255 | MIT | Megumi Hano |
-| `svg-icon-eos-icons-*` | EOS Icons 5.4.0 | 253 | MIT | SUSE UX/UI team |
-| `svg-icon-bitcoin-icons-*` | Bitcoin Icons 0.1.11 | 330 | MIT | Bitcoin Design Community |
-| `svg-icon-humbleicons-*` | Humbleicons 1.29.0 | 286 | MIT | Jiří Zralý |
-| `svg-icon-uim-*` | Unicons Monochrome 4.2.0 | 298 | Apache-2.0 | Iconscout |
-| `svg-icon-uit-*` | Unicons Thin Line 4.2.0 | 216 | Apache-2.0 | Iconscout |
-| `svg-icon-mi-*` | Mono Icons 1.3.1 | 180 | MIT | Mono |
-| `svg-icon-cuida-*` | Cuida Icons 1.18.0 | 182 | Apache-2.0 | Sysvale |
-| `svg-icon-weui-*` | WeUI Icon | 162 | MIT | WeUI |
-| `svg-icon-duo-icons-*` | Duoicons 1.1.4 | 91 | MIT | fernandcf |
-| `svg-icon-svg-spinners-*` | SVG Spinners | 46 | MIT | Utkarsh Verma |
-| `svg-icon-reicon-*` | Reicon 1.4.1 | 6,590 | MIT | REICON |
-| `svg-icon-hugeicons-*` | Huge Icons | 6,065 | MIT | Hugeicons |
-| `svg-icon-mage-*` | Mage Icons | 1,042 | Apache-2.0 | MageIcons |
-| `svg-icon-stash-*` | Stash Icons | 982 | MIT | Pingback LLC |
-| `svg-icon-lineicons-*` | Lineicons | 606 | MIT | Lineicons |
-| `svg-icon-matita-*` | Matita | 200 | MIT | matita.dev |
-| `svg-icon-icon-park-outline-*` | IconPark Outline 1.4.2 | 2,658 | Apache-2.0 | ByteDance |
-| `svg-icon-bx-*` | BoxIcons v2 2.1.4 | 814 | MIT | Boxicons |
-| `svg-icon-akar-icons-*` | Akar Icons 1.9.31 | 454 | MIT | Arturo Wibawa |
-| `svg-icon-energy-icons-*` | Energy Icons 1.2.2 | 8,000 | MIT | Sam Passmore |
-| `svg-bg-icon-thesvg-color-*` | theSVG Color 1.2.18 | 5,133 | MIT | thesvg.org |
-| `svg-bg-icon-noto-*` | Noto Emoji 1.2.9 | 3,729 | Apache-2.0 | Google Inc |
-| `svg-bg-icon-fluent-emoji-flat-*` | Fluent Emoji Flat 1.2.6 | 3,145 | MIT | Microsoft Corporation |
-| `svg-icon-fluent-emoji-high-contrast-*` | Fluent Emoji High Contrast 1.2.6 | 1,595 | MIT | Microsoft Corporation |
-| `svg-icon-icon-park-*` | IconPark 1.2.4 | 2,658 | Apache-2.0 | ByteDance |
-| `svg-icon-icon-park-twotone-*` | IconPark TwoTone 1.2.4 | 1,944 | Apache-2.0 | ByteDance |
-| `svg-icon-mynaui-*` | Myna UI Icons 1.2.19 | 2,620 | MIT | Praveen Juge |
-| `svg-icon-andrsrxn-*` | andrsrxn/icons 1.2.1 | 2,380 | MIT | Andrés Raxón |
-| `svg-icon-healthicons-*` | Health Icons 1.2.13 | 2,042 | MIT | Resolve to Save Lives |
-| `svg-icon-griddy-icons-*` | Griddy Icons 1.2.0 | 2,010 | MIT | Zuzana Benova |
-| `svg-icon-fluent-mdl2-*` | Fluent UI MDL2 1.2.1 | 1,735 | MIT | Microsoft Corporation |
-| `svg-bg-icon-vscode-icons-*` | VSCode Icons 1.2.90 | 1,698 | MIT | Roberto Huertas |
-| `svg-icon-ix-*` | Siemens Industrial Experience Icons 1.2.14 | 1,490 | MIT | Siemens AG |
-| `svg-icon-teenyicons-*` | Teenyicons 1.2.2 | 1,200 | MIT | smhmd |
-| `svg-icon-clarity-*` | Clarity 1.2.4 | 1,103 | MIT | VMware |
-| `svg-icon-file-icons-*` | File Icons 1.2.2 | 930 | ISC | John Gardner |
-| `svg-bg-icon-material-icon-theme-*` | Material Icon Theme 1.2.72 | 906 | MIT | Material Extensions |
-| `svg-icon-qlementine-icons-*` | Qlementine Icons 1.2.16 | 905 | MIT | Olivier Cléro |
-| `svg-icon-ant-design-*` | Ant Design Icons 1.2.9 | 848 | MIT | HeskeyBaozi |
-| `svg-icon-gravity-ui-*` | Gravity UI Icons 1.2.15 | 809 | MIT | YANDEX LLC |
-| `svg-icon-lsicon-*` | Lsicon 1.2.5 | 716 | MIT | Wis Design |
-| `svg-bg-icon-catppuccin-*` | Catppuccin Icons 1.2.17 | 656 | MIT | Catppuccin |
-| `svg-icon-vaadin-*` | Vaadin Icons 1.2.1 | 636 | Apache-2.0 | Vaadin |
-| `svg-bg-icon-circle-flags-*` | Circle Flags 1.2.12 | 444 | MIT | HatScripts |
-| `svg-bg-icon-flagpack-*` | Flagpack 1.2.8 | 254 | MIT | Yummygum |
-| `svg-icon-oui-*` | OpenSearch UI 1.2.6 | 437 | Apache-2.0 | OpenSearch Contributors |
-| `svg-bg-icon-skill-icons-*` | Skill Icons 1.2.4 | 400 | MIT | tandpfun |
-| `svg-bg-icon-flat-color-icons-*` | Flat Color Icons 1.2.3 | 329 | MIT | Icons8 |
-| `svg-bg-icon-gcp-*` | Google Cloud Icons 1.2.3 | 214 | Apache-2.0 | Google Cloud |
+| `sv-tabler-*` | Tabler Icons 3.49.0 | 6,238 | MIT | Paweł Kuna |
+| `sv-la-*` | Line Awesome 1.2.1 | 1,544 | Apache-2.0 | Icons8 |
+| `sv-bi-*` | Bootstrap Icons 1.13.1 | 2,078 | MIT | The Bootstrap Authors |
+| `sv-iconmind-*` | IconMind | 31,722 | MIT | IconMind |
+| `sv-iconoven-*` | IconOven | 18,236 | MIT | Appic Marketing |
+| `sv-lucide-*` | Lucide | 1,891 | ISC | Lucide Contributors |
+| `sv-ph-*` | Phosphor 2.1.1 | 9,072 | MIT | Phosphor Icons |
+| `sv-ri-*` | Remix Icon 4.8.0 | 3,188 | Apache-2.0 | Remix Design |
+| `sv-mdi-*` | Material Design Icons | 7,447 | Apache-2.0 | Pictogrammers |
+| `sv-carbon-*` | Carbon 11.89.0 | 2,631 | Apache-2.0 | IBM |
+| `sv-iconoir-*` | Iconoir 7.12.1 | 1,671 | MIT | Luca Burgio |
+| `sv-heroicons-*` | HeroIcons 2.2.0 | 1,288 | MIT | Refactoring UI Inc |
+| `sv-ion-*` | IonIcons 8.0.13 | 1,357 | MIT | Ben Sperry |
+| `sv-octicon-*` | Octicons | 774 | MIT | GitHub |
+| `sv-fluent-color-*` | Fluent UI System Color Icons 1.1.316 | 890 | MIT | Microsoft Corporation |
+| `sv-fluent-*` | Fluent UI System Icons 1.1.344 | 19,900 | MIT | Microsoft Corporation |
+| `sv-ic-*` | Google Material Icons 1.0.32 | 10,955 | Apache-2.0 | Material Design Authors |
+| `sv-material-symbols-light-*` | Material Symbols Light | 15,793 | Apache-2.0 | Google |
+| `sv-line-md-*` | Material Line Icons 3.0.5 | 1,218 | MIT | Vjacheslav Trushkin |
+| `sv-boxicons-*` | Boxicons 1.0.5 | 3,768 | MIT | Boxicons |
+| `sv-mingcute-*` | MingCute Icon | 3,320 | Apache-2.0 | MingCute Design |
+| `sv-keyline-icons-*` | Keyline Icons | 11,480 | MIT | Keyline Icons |
+| `sv-lucide-extended-*` | Lucide Extended | 2,654 | ISC | Applifted |
+| `sv-lucide-lab-*` | Lucide Lab | 373 | ISC | Lucide Contributors |
+| `sv-uil-*` | Unicons 4.2.0 | 1,215 | Apache-2.0 | Iconscout |
+| `sv-tdesign-*` | TDesign Icons | 2,356 | MIT | TDesign |
+| `sv-si-*` | Sargam Icons | 1,299 | MIT | Abhimanyu Rana |
+| `sv-majesticons-*` | Majesticons 2.1.3 | 760 | MIT | Gerrit Halfmann |
+| `sv-gg-*` | css.gg 2.1.4 | 704 | MIT | Astrit |
+| `sv-flowbite-*` | Flowbite Icons | 751 | MIT | Themesberg |
+| `sv-vadivam-*` | Vadivam 0.0.45 | 508 | MIT | Praveen Juge |
+| `sv-proicons-*` | ProIcons 4.13.7 | 544 | MIT | ProCode |
+| `sv-meteor-icons-*` | Meteor Icons | 409 | MIT | zkreations |
+| `sv-prime-*` | Prime Icons | 313 | MIT | PrimeTek |
+| `sv-fe-*` | Feather Icon 1.0.2 | 255 | MIT | Megumi Hano |
+| `sv-eos-icons-*` | EOS Icons 5.4.0 | 253 | MIT | SUSE UX/UI team |
+| `sv-bitcoin-icons-*` | Bitcoin Icons 0.1.11 | 330 | MIT | Bitcoin Design Community |
+| `sv-humbleicons-*` | Humbleicons 1.29.0 | 286 | MIT | Jiří Zralý |
+| `sv-uim-*` | Unicons Monochrome 4.2.0 | 298 | Apache-2.0 | Iconscout |
+| `sv-uit-*` | Unicons Thin Line 4.2.0 | 216 | Apache-2.0 | Iconscout |
+| `sv-mi-*` | Mono Icons 1.3.1 | 180 | MIT | Mono |
+| `sv-cuida-*` | Cuida Icons 1.18.0 | 182 | Apache-2.0 | Sysvale |
+| `sv-weui-*` | WeUI Icon | 162 | MIT | WeUI |
+| `sv-duo-icons-*` | Duoicons 1.1.4 | 91 | MIT | fernandcf |
+| `sv-svg-spinners-*` | SVG Spinners | 46 | MIT | Utkarsh Verma |
+| `sv-reicon-*` | Reicon 1.4.1 | 6,590 | MIT | REICON |
+| `sv-hugeicons-*` | Huge Icons | 6,065 | MIT | Hugeicons |
+| `sv-mage-*` | Mage Icons | 1,042 | Apache-2.0 | MageIcons |
+| `sv-stash-*` | Stash Icons | 982 | MIT | Pingback LLC |
+| `sv-lineicons-*` | Lineicons | 606 | MIT | Lineicons |
+| `sv-matita-*` | Matita | 200 | MIT | matita.dev |
+| `sv-icon-park-outline-*` | IconPark Outline 1.4.2 | 2,658 | Apache-2.0 | ByteDance |
+| `sv-bx-*` | BoxIcons v2 2.1.4 | 814 | MIT | Boxicons |
+| `sv-akar-icons-*` | Akar Icons 1.9.31 | 454 | MIT | Arturo Wibawa |
+| `sv-energy-icons-*` | Energy Icons 1.2.2 | 8,000 | MIT | Sam Passmore |
+| `svbg-thesvg-color-*` | theSVG Color 1.2.18 | 5,133 | MIT | thesvg.org |
+| `svbg-noto-*` | Noto Emoji 1.2.9 | 3,729 | Apache-2.0 | Google Inc |
+| `svbg-fluent-emoji-flat-*` | Fluent Emoji Flat 1.2.6 | 3,145 | MIT | Microsoft Corporation |
+| `sv-fluent-emoji-high-contrast-*` | Fluent Emoji High Contrast 1.2.6 | 1,595 | MIT | Microsoft Corporation |
+| `sv-icon-park-*` | IconPark 1.2.4 | 2,658 | Apache-2.0 | ByteDance |
+| `sv-icon-park-twotone-*` | IconPark TwoTone 1.2.4 | 1,944 | Apache-2.0 | ByteDance |
+| `sv-mynaui-*` | Myna UI Icons 1.2.19 | 2,620 | MIT | Praveen Juge |
+| `sv-andrsrxn-*` | andrsrxn/icons 1.2.1 | 2,380 | MIT | Andrés Raxón |
+| `sv-healthicons-*` | Health Icons 1.2.13 | 2,042 | MIT | Resolve to Save Lives |
+| `sv-griddy-icons-*` | Griddy Icons 1.2.0 | 2,010 | MIT | Zuzana Benova |
+| `sv-fluent-mdl2-*` | Fluent UI MDL2 1.2.1 | 1,735 | MIT | Microsoft Corporation |
+| `svbg-vscode-icons-*` | VSCode Icons 1.2.90 | 1,698 | MIT | Roberto Huertas |
+| `sv-ix-*` | Siemens Industrial Experience Icons 1.2.14 | 1,490 | MIT | Siemens AG |
+| `sv-teenyicons-*` | Teenyicons 1.2.2 | 1,200 | MIT | smhmd |
+| `sv-clarity-*` | Clarity 1.2.4 | 1,103 | MIT | VMware |
+| `sv-file-icons-*` | File Icons 1.2.2 | 930 | ISC | John Gardner |
+| `svbg-material-icon-theme-*` | Material Icon Theme 1.2.72 | 906 | MIT | Material Extensions |
+| `sv-qlementine-icons-*` | Qlementine Icons 1.2.16 | 905 | MIT | Olivier Cléro |
+| `sv-ant-design-*` | Ant Design Icons 1.2.9 | 848 | MIT | HeskeyBaozi |
+| `sv-gravity-ui-*` | Gravity UI Icons 1.2.15 | 809 | MIT | YANDEX LLC |
+| `sv-lsicon-*` | Lsicon 1.2.5 | 716 | MIT | Wis Design |
+| `svbg-catppuccin-*` | Catppuccin Icons 1.2.17 | 656 | MIT | Catppuccin |
+| `sv-vaadin-*` | Vaadin Icons 1.2.1 | 636 | Apache-2.0 | Vaadin |
+| `svbg-circle-flags-*` | Circle Flags 1.2.12 | 444 | MIT | HatScripts |
+| `svbg-flagpack-*` | Flagpack 1.2.8 | 254 | MIT | Yummygum |
+| `sv-oui-*` | OpenSearch UI 1.2.6 | 437 | Apache-2.0 | OpenSearch Contributors |
+| `svbg-skill-icons-*` | Skill Icons 1.2.4 | 400 | MIT | tandpfun |
+| `svbg-flat-color-icons-*` | Flat Color Icons 1.2.3 | 329 | MIT | Icons8 |
+| `svbg-gcp-*` | Google Cloud Icons 1.2.3 | 214 | Apache-2.0 | Google Cloud |
 
 ## Details
 
@@ -200,7 +200,7 @@ The class prefix is what the icon set prefix maps to in the copied
 - Author: Microsoft Corporation — <https://github.com/microsoft/fluentui-system-icons>
 - License: MIT — <https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE>
 - Source: <https://icon-sets.iconify.design/fluent-color/>
-- Note: Multicolor (palette) set, copied as `.svg-bg-icon-fluent-color-<name>`.
+- Note: Multicolor (palette) set, copied as `.svbg-fluent-color-<name>`.
 
 ### Fluent UI System Icons — `fluent`
 
@@ -451,21 +451,21 @@ The class prefix is what the icon set prefix maps to in the copied
 - Author: thesvg.org — <https://github.com/glincker/thesvg>
 - License: MIT (MIT) — <https://github.com/glincker/thesvg/blob/main/LICENSE>
 - Source: <https://icon-sets.iconify.design/thesvg-color/>
-- Note: Multicolor (palette) set, copied as `.svg-bg-icon-thesvg-color-<name>`.
+- Note: Multicolor (palette) set, copied as `.svbg-thesvg-color-<name>`.
 
 ### Noto Emoji — `noto`
 
 - Author: Google Inc — <https://github.com/googlefonts/noto-emoji>
 - License: Apache 2.0 (Apache-2.0) — <https://github.com/googlefonts/noto-emoji/blob/main/svg/LICENSE>
 - Source: <https://icon-sets.iconify.design/noto/>
-- Note: Multicolor (palette) set, copied as `.svg-bg-icon-noto-<name>`.
+- Note: Multicolor (palette) set, copied as `.svbg-noto-<name>`.
 
 ### Fluent Emoji Flat — `fluent-emoji-flat`
 
 - Author: Microsoft Corporation — <https://github.com/microsoft/fluentui-emoji>
 - License: MIT (MIT) — <https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE>
 - Source: <https://icon-sets.iconify.design/fluent-emoji-flat/>
-- Note: Multicolor (palette) set, copied as `.svg-bg-icon-fluent-emoji-flat-<name>`.
+- Note: Multicolor (palette) set, copied as `.svbg-fluent-emoji-flat-<name>`.
 
 ### Fluent Emoji High Contrast — `fluent-emoji-high-contrast`
 
@@ -521,7 +521,7 @@ The class prefix is what the icon set prefix maps to in the copied
 - Author: Roberto Huertas — <https://github.com/vscode-icons/vscode-icons>
 - License: MIT (MIT) — <https://github.com/vscode-icons/vscode-icons/blob/master/LICENSE>
 - Source: <https://icon-sets.iconify.design/vscode-icons/>
-- Note: Multicolor (palette) set, copied as `.svg-bg-icon-vscode-icons-<name>`.
+- Note: Multicolor (palette) set, copied as `.svbg-vscode-icons-<name>`.
 
 ### Siemens Industrial Experience Icons — `ix`
 
@@ -552,7 +552,7 @@ The class prefix is what the icon set prefix maps to in the copied
 - Author: Material Extensions — <https://github.com/material-extensions/vscode-material-icon-theme>
 - License: MIT (MIT) — <https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE>
 - Source: <https://icon-sets.iconify.design/material-icon-theme/>
-- Note: Multicolor (palette) set, copied as `.svg-bg-icon-material-icon-theme-<name>`.
+- Note: Multicolor (palette) set, copied as `.svbg-material-icon-theme-<name>`.
 
 ### Qlementine Icons — `qlementine-icons`
 
@@ -583,7 +583,7 @@ The class prefix is what the icon set prefix maps to in the copied
 - Author: Catppuccin — <https://github.com/catppuccin/vscode-icons>
 - License: MIT (MIT) — <https://github.com/catppuccin/vscode-icons/blob/main/LICENSE>
 - Source: <https://icon-sets.iconify.design/catppuccin/>
-- Note: Multicolor (palette) set, copied as `.svg-bg-icon-catppuccin-<name>`.
+- Note: Multicolor (palette) set, copied as `.svbg-catppuccin-<name>`.
 
 ### Vaadin Icons — `vaadin`
 
@@ -596,14 +596,14 @@ The class prefix is what the icon set prefix maps to in the copied
 - Author: HatScripts — <https://github.com/HatScripts/circle-flags>
 - License: MIT (MIT) — <https://github.com/HatScripts/circle-flags/blob/gh-pages/LICENSE>
 - Source: <https://icon-sets.iconify.design/circle-flags/>
-- Note: Multicolor (palette) set, copied as `.svg-bg-icon-circle-flags-<name>`.
+- Note: Multicolor (palette) set, copied as `.svbg-circle-flags-<name>`.
 
 ### Flagpack — `flagpack`
 
 - Author: Yummygum — <https://github.com/Yummygum/flagpack-core>
 - License: MIT (MIT) — <https://github.com/Yummygum/flagpack-core/blob/main/LICENSE>
 - Source: <https://icon-sets.iconify.design/flagpack/>
-- Note: Multicolor (palette) set, copied as `.svg-bg-icon-flagpack-<name>`.
+- Note: Multicolor (palette) set, copied as `.svbg-flagpack-<name>`.
 
 ### OpenSearch UI — `oui`
 
@@ -616,18 +616,18 @@ The class prefix is what the icon set prefix maps to in the copied
 - Author: tandpfun — <https://github.com/tandpfun/skill-icons>
 - License: MIT (MIT) — <https://github.com/tandpfun/skill-icons/blob/main/LICENSE>
 - Source: <https://icon-sets.iconify.design/skill-icons/>
-- Note: Multicolor (palette) set, copied as `.svg-bg-icon-skill-icons-<name>`.
+- Note: Multicolor (palette) set, copied as `.svbg-skill-icons-<name>`.
 
 ### Flat Color Icons — `flat-color-icons`
 
 - Author: Icons8 — <https://github.com/icons8/flat-Color-icons>
 - License: MIT (MIT)
 - Source: <https://icon-sets.iconify.design/flat-color-icons/>
-- Note: Multicolor (palette) set, copied as `.svg-bg-icon-flat-color-icons-<name>`.
+- Note: Multicolor (palette) set, copied as `.svbg-flat-color-icons-<name>`.
 
 ### Google Cloud Icons — `gcp`
 
 - Author: Google Cloud
 - License: Apache 2.0 (Apache-2.0) — <https://www.apache.org/licenses/LICENSE-2.0>
 - Source: <https://icon-sets.iconify.design/gcp/>
-- Note: Multicolor (palette) set, copied as `.svg-bg-icon-gcp-<name>`.
+- Note: Multicolor (palette) set, copied as `.svbg-gcp-<name>`.
