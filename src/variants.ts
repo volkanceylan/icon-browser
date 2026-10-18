@@ -285,7 +285,11 @@ export function detectStyle(
     prefix: string,
     palette: boolean
 ): IconStyle {
-    if (palette && hasVisibleColor(icon.body)) return "multicolor";
+    // Palette sets are multicolor, except icon-park: it is flagged palette but is
+    // mostly monochrome line art, so only genuinely coloured glyphs are multicolor.
+    if (palette && (prefix !== "icon-park" || hasVisibleColor(icon.body))) {
+        return "multicolor";
+    }
     if (/(^|-)duotone(-|$)|(^|-)twotone(-|$)/.test(name) || hasReducedOpacity(icon.body)) {
         return "duotone";
     }
