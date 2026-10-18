@@ -244,6 +244,23 @@ function hasReducedOpacity(body: string): boolean {
     return false;
 }
 
+const COLOR_ATTR = /(?:fill|stroke)="([^"]*)"/g;
+
+// A palette set can still contain monochrome glyphs (black/currentColor), and a
+// mono-looking set can contain coloured ones (e.g. icon-park). Only bodies with a
+// real colour count as multicolor.
+function hasVisibleColor(body: string): boolean {
+    for (const match of body.matchAll(COLOR_ATTR)) {
+        const value = match[1].trim().toLowerCase();
+        if (!value || value === "none" || value === "transparent" || value === "currentcolor") {
+            continue;
+        }
+        if (value === "black" || /^#(?:0{3,4}|0{6}|0{8})$/.test(value)) continue;
+        return true;
+    }
+    return false;
+}
+
 // Sets whose base glyph is outline-style line art but drawn with fills
 // (either globally, or because their filled variants carry a "-fill" suffix).
 const OUTLINE_BASE = new Set([
@@ -268,7 +285,7 @@ export function detectStyle(
     prefix: string,
     palette: boolean
 ): IconStyle {
-    if (palette && prefix !== "icon-park") return "multicolor";
+    if (palette && hasVisibleColor(icon.body)) return "multicolor";
     if (/(^|-)duotone(-|$)|(^|-)twotone(-|$)/.test(name) || hasReducedOpacity(icon.body)) {
         return "duotone";
     }
