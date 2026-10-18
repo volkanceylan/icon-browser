@@ -810,8 +810,17 @@ window.addEventListener("resize", () => {
     saveState();
 });
 window.addEventListener("resize", hideMenu);
-window.addEventListener("resize", closeSettings);
 window.addEventListener("blur", hideMenu);
+
+// Close the settings popup on orientation changes, but not on the height-only
+// resize the mobile keyboard causes when the set-search is focused (that would
+// close it the instant it opens).
+let lastWindowWidth = window.innerWidth;
+window.addEventListener("resize", () => {
+    if (window.innerWidth === lastWindowWidth) return;
+    lastWindowWidth = window.innerWidth;
+    closeSettings();
+});
 
 const STATE_KEY = "icon-browser:state";
 
