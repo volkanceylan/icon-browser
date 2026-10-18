@@ -1,0 +1,4441 @@
+{
+  "version": 1,
+  "source": "line-awesome-fa.css",
+  "icons": {
+    "500px": [
+      "500px"
+    ],
+    "accessible-icon": [
+      "accessible-icon",
+      "wheelchair-alt"
+    ],
+    "accusoft": [
+      "accusoft"
+    ],
+    "acquisitions-incorporated": [
+      "acquisitions-incorporated"
+    ],
+    "ad": [
+      "ad"
+    ],
+    "address-book": [
+      "address-book",
+      "address-book-o"
+    ],
+    "address-card": [
+      "address-card",
+      "address-card-o",
+      "vcard",
+      "vcard-o"
+    ],
+    "adjust": [
+      "adjust"
+    ],
+    "adn": [
+      "adn"
+    ],
+    "adobe": [
+      "adobe"
+    ],
+    "adversal": [
+      "adversal"
+    ],
+    "affiliatetheme": [
+      "affiliatetheme"
+    ],
+    "air-freshener": [
+      "air-freshener"
+    ],
+    "airbnb": [
+      "airbnb"
+    ],
+    "algolia": [
+      "algolia"
+    ],
+    "align-center": [
+      "align-center"
+    ],
+    "align-justify": [
+      "align-justify"
+    ],
+    "align-left": [
+      "align-left"
+    ],
+    "align-right": [
+      "align-right"
+    ],
+    "alipay": [
+      "alipay"
+    ],
+    "allergies": [
+      "allergies"
+    ],
+    "amazon": [
+      "amazon"
+    ],
+    "amazon-pay": [
+      "amazon-pay"
+    ],
+    "ambulance": [
+      "ambulance"
+    ],
+    "american-sign-language-interpreting": [
+      "american-sign-language-interpreting",
+      "asl-interpreting"
+    ],
+    "amilia": [
+      "amilia"
+    ],
+    "anchor": [
+      "anchor"
+    ],
+    "android": [
+      "android"
+    ],
+    "angellist": [
+      "angellist"
+    ],
+    "angle-double-down": [
+      "angle-double-down"
+    ],
+    "angle-double-left": [
+      "angle-double-left"
+    ],
+    "angle-double-right": [
+      "angle-double-right"
+    ],
+    "angle-double-up": [
+      "angle-double-up"
+    ],
+    "angle-down": [
+      "angle-down"
+    ],
+    "angle-left": [
+      "angle-left"
+    ],
+    "angle-right": [
+      "angle-right"
+    ],
+    "angle-up": [
+      "angle-up"
+    ],
+    "angry": [
+      "angry"
+    ],
+    "angrycreative": [
+      "angrycreative"
+    ],
+    "angular": [
+      "angular"
+    ],
+    "ankh": [
+      "ankh"
+    ],
+    "app-store": [
+      "app-store"
+    ],
+    "app-store-ios": [
+      "app-store-ios"
+    ],
+    "apper": [
+      "apper"
+    ],
+    "apple": [
+      "apple"
+    ],
+    "apple-alt": [
+      "apple-alt"
+    ],
+    "apple-pay": [
+      "apple-pay"
+    ],
+    "archive": [
+      "archive"
+    ],
+    "archway": [
+      "archway"
+    ],
+    "arrow-alt-circle-down": [
+      "arrow-alt-circle-down",
+      "arrow-circle-o-down"
+    ],
+    "arrow-alt-circle-left": [
+      "arrow-alt-circle-left",
+      "arrow-circle-o-left"
+    ],
+    "arrow-alt-circle-right": [
+      "arrow-alt-circle-right",
+      "arrow-circle-o-right"
+    ],
+    "arrow-alt-circle-up": [
+      "arrow-alt-circle-up",
+      "arrow-circle-o-up"
+    ],
+    "arrow-circle-down": [
+      "arrow-circle-down"
+    ],
+    "arrow-circle-left": [
+      "arrow-circle-left"
+    ],
+    "arrow-circle-right": [
+      "arrow-circle-right"
+    ],
+    "arrow-circle-up": [
+      "arrow-circle-up"
+    ],
+    "arrow-down": [
+      "arrow-down"
+    ],
+    "arrow-left": [
+      "arrow-left"
+    ],
+    "arrow-right": [
+      "arrow-right"
+    ],
+    "arrow-up": [
+      "arrow-up"
+    ],
+    "arrows-alt": [
+      "arrows-alt",
+      "arrows"
+    ],
+    "arrows-alt-h": [
+      "arrows-alt-h",
+      "arrows-h"
+    ],
+    "arrows-alt-v": [
+      "arrows-alt-v",
+      "arrows-v"
+    ],
+    "artstation": [
+      "artstation"
+    ],
+    "assistive-listening-systems": [
+      "assistive-listening-systems"
+    ],
+    "asterisk": [
+      "asterisk"
+    ],
+    "asymmetrik": [
+      "asymmetrik"
+    ],
+    "at": [
+      "at"
+    ],
+    "atlas": [
+      "atlas"
+    ],
+    "atlassian": [
+      "atlassian"
+    ],
+    "atom": [
+      "atom"
+    ],
+    "audible": [
+      "audible"
+    ],
+    "audio-description": [
+      "audio-description"
+    ],
+    "autoprefixer": [
+      "autoprefixer"
+    ],
+    "avianex": [
+      "avianex"
+    ],
+    "aviato": [
+      "aviato"
+    ],
+    "award": [
+      "award"
+    ],
+    "aws": [
+      "aws"
+    ],
+    "baby": [
+      "baby"
+    ],
+    "baby-carriage": [
+      "baby-carriage"
+    ],
+    "backspace": [
+      "backspace"
+    ],
+    "backward": [
+      "backward"
+    ],
+    "bacon": [
+      "bacon"
+    ],
+    "balance-scale": [
+      "balance-scale"
+    ],
+    "balance-scale-left": [
+      "balance-scale-left"
+    ],
+    "balance-scale-right": [
+      "balance-scale-right"
+    ],
+    "ban": [
+      "ban"
+    ],
+    "band-aid": [
+      "band-aid"
+    ],
+    "bandcamp": [
+      "bandcamp"
+    ],
+    "barcode": [
+      "barcode"
+    ],
+    "bars": [
+      "bars",
+      "navicon",
+      "reorder"
+    ],
+    "baseball-ball": [
+      "baseball-ball"
+    ],
+    "basketball-ball": [
+      "basketball-ball"
+    ],
+    "bath": [
+      "bath",
+      "bathtub"
+    ],
+    "battery-empty": [
+      "battery-empty",
+      "battery-0"
+    ],
+    "battery-full": [
+      "battery-full",
+      "battery",
+      "battery-4"
+    ],
+    "battery-half": [
+      "battery-half",
+      "battery-2"
+    ],
+    "battery-quarter": [
+      "battery-quarter",
+      "battery-1"
+    ],
+    "battery-three-quarters": [
+      "battery-three-quarters",
+      "battery-3"
+    ],
+    "battle-net": [
+      "battle-net"
+    ],
+    "bed": [
+      "bed",
+      "hotel"
+    ],
+    "beer": [
+      "beer"
+    ],
+    "behance": [
+      "behance"
+    ],
+    "behance-square": [
+      "behance-square"
+    ],
+    "bell": [
+      "bell",
+      "bell-o"
+    ],
+    "bell-slash": [
+      "bell-slash",
+      "bell-slash-o"
+    ],
+    "bezier-curve": [
+      "bezier-curve"
+    ],
+    "bible": [
+      "bible"
+    ],
+    "bicycle": [
+      "bicycle"
+    ],
+    "biking": [
+      "biking"
+    ],
+    "bimobject": [
+      "bimobject"
+    ],
+    "binoculars": [
+      "binoculars"
+    ],
+    "biohazard": [
+      "biohazard"
+    ],
+    "birthday-cake": [
+      "birthday-cake"
+    ],
+    "bitbucket": [
+      "bitbucket"
+    ],
+    "bitcoin": [
+      "bitcoin"
+    ],
+    "bity": [
+      "bity"
+    ],
+    "black-tie": [
+      "black-tie"
+    ],
+    "blackberry": [
+      "blackberry"
+    ],
+    "blender": [
+      "blender"
+    ],
+    "blender-phone": [
+      "blender-phone"
+    ],
+    "blind": [
+      "blind"
+    ],
+    "blog": [
+      "blog"
+    ],
+    "blogger": [
+      "blogger"
+    ],
+    "blogger-b": [
+      "blogger-b"
+    ],
+    "bluetooth": [
+      "bluetooth"
+    ],
+    "bluetooth-b": [
+      "bluetooth-b"
+    ],
+    "bold": [
+      "bold"
+    ],
+    "bolt": [
+      "bolt",
+      "flash"
+    ],
+    "bomb": [
+      "bomb"
+    ],
+    "bone": [
+      "bone"
+    ],
+    "bong": [
+      "bong"
+    ],
+    "book": [
+      "book"
+    ],
+    "book-dead": [
+      "book-dead"
+    ],
+    "book-medical": [
+      "book-medical"
+    ],
+    "book-open": [
+      "book-open"
+    ],
+    "book-reader": [
+      "book-reader"
+    ],
+    "bookmark": [
+      "bookmark",
+      "bookmark-o"
+    ],
+    "bootstrap": [
+      "bootstrap"
+    ],
+    "border-all": [
+      "border-all"
+    ],
+    "border-none": [
+      "border-none"
+    ],
+    "border-style": [
+      "border-style"
+    ],
+    "bowling-ball": [
+      "bowling-ball"
+    ],
+    "box": [
+      "box"
+    ],
+    "box-open": [
+      "box-open"
+    ],
+    "boxes": [
+      "boxes"
+    ],
+    "braille": [
+      "braille"
+    ],
+    "brain": [
+      "brain"
+    ],
+    "bread-slice": [
+      "bread-slice"
+    ],
+    "briefcase": [
+      "briefcase"
+    ],
+    "briefcase-medical": [
+      "briefcase-medical"
+    ],
+    "broadcast-tower": [
+      "broadcast-tower"
+    ],
+    "broom": [
+      "broom"
+    ],
+    "brush": [
+      "brush"
+    ],
+    "btc": [
+      "btc"
+    ],
+    "buffer": [
+      "buffer"
+    ],
+    "bug": [
+      "bug"
+    ],
+    "building": [
+      "building",
+      "building-o"
+    ],
+    "bullhorn": [
+      "bullhorn"
+    ],
+    "bullseye": [
+      "bullseye"
+    ],
+    "burn": [
+      "burn"
+    ],
+    "buromobelexperte": [
+      "buromobelexperte"
+    ],
+    "bus": [
+      "bus"
+    ],
+    "bus-alt": [
+      "bus-alt"
+    ],
+    "business-time": [
+      "business-time"
+    ],
+    "buy-n-large": [
+      "buy-n-large"
+    ],
+    "buysellads": [
+      "buysellads"
+    ],
+    "calculator": [
+      "calculator"
+    ],
+    "calendar": [
+      "calendar",
+      "calendar-o"
+    ],
+    "calendar-alt": [
+      "calendar-alt",
+      "calendar"
+    ],
+    "calendar-check": [
+      "calendar-check",
+      "calendar-check-o"
+    ],
+    "calendar-day": [
+      "calendar-day"
+    ],
+    "calendar-minus": [
+      "calendar-minus",
+      "calendar-minus-o"
+    ],
+    "calendar-plus": [
+      "calendar-plus",
+      "calendar-plus-o"
+    ],
+    "calendar-times": [
+      "calendar-times",
+      "calendar-times-o"
+    ],
+    "calendar-week": [
+      "calendar-week"
+    ],
+    "camera": [
+      "camera"
+    ],
+    "camera-retro": [
+      "camera-retro"
+    ],
+    "campground": [
+      "campground"
+    ],
+    "canadian-maple-leaf": [
+      "canadian-maple-leaf"
+    ],
+    "candy-cane": [
+      "candy-cane"
+    ],
+    "cannabis": [
+      "cannabis"
+    ],
+    "capsules": [
+      "capsules"
+    ],
+    "car": [
+      "car",
+      "automobile"
+    ],
+    "car-alt": [
+      "car-alt"
+    ],
+    "car-battery": [
+      "car-battery"
+    ],
+    "car-crash": [
+      "car-crash"
+    ],
+    "car-side": [
+      "car-side"
+    ],
+    "caret-down": [
+      "caret-down"
+    ],
+    "caret-left": [
+      "caret-left"
+    ],
+    "caret-right": [
+      "caret-right"
+    ],
+    "caret-square-down": [
+      "caret-square-down",
+      "caret-square-o-down",
+      "toggle-down"
+    ],
+    "caret-square-left": [
+      "caret-square-left",
+      "caret-square-o-left",
+      "toggle-left"
+    ],
+    "caret-square-right": [
+      "caret-square-right",
+      "caret-square-o-right",
+      "toggle-right"
+    ],
+    "caret-square-up": [
+      "caret-square-up",
+      "caret-square-o-up",
+      "toggle-up"
+    ],
+    "caret-up": [
+      "caret-up"
+    ],
+    "carrot": [
+      "carrot"
+    ],
+    "cart-arrow-down": [
+      "cart-arrow-down"
+    ],
+    "cart-plus": [
+      "cart-plus"
+    ],
+    "cash-register": [
+      "cash-register"
+    ],
+    "cat": [
+      "cat"
+    ],
+    "cc-amazon-pay": [
+      "cc-amazon-pay"
+    ],
+    "cc-amex": [
+      "cc-amex"
+    ],
+    "cc-apple-pay": [
+      "cc-apple-pay"
+    ],
+    "cc-diners-club": [
+      "cc-diners-club"
+    ],
+    "cc-discover": [
+      "cc-discover"
+    ],
+    "cc-jcb": [
+      "cc-jcb"
+    ],
+    "cc-mastercard": [
+      "cc-mastercard"
+    ],
+    "cc-paypal": [
+      "cc-paypal"
+    ],
+    "cc-stripe": [
+      "cc-stripe"
+    ],
+    "cc-visa": [
+      "cc-visa"
+    ],
+    "centercode": [
+      "centercode"
+    ],
+    "centos": [
+      "centos"
+    ],
+    "certificate": [
+      "certificate"
+    ],
+    "chair": [
+      "chair"
+    ],
+    "chalkboard": [
+      "chalkboard"
+    ],
+    "chalkboard-teacher": [
+      "chalkboard-teacher"
+    ],
+    "charging-station": [
+      "charging-station"
+    ],
+    "chart-area": [
+      "chart-area",
+      "area-chart"
+    ],
+    "chart-bar": [
+      "chart-bar",
+      "bar-chart",
+      "bar-chart-o"
+    ],
+    "chart-line": [
+      "chart-line",
+      "line-chart"
+    ],
+    "chart-pie": [
+      "chart-pie",
+      "pie-chart"
+    ],
+    "check": [
+      "check"
+    ],
+    "check-circle": [
+      "check-circle",
+      "check-circle-o"
+    ],
+    "check-double": [
+      "check-double"
+    ],
+    "check-square": [
+      "check-square",
+      "check-square-o"
+    ],
+    "cheese": [
+      "cheese"
+    ],
+    "chess": [
+      "chess"
+    ],
+    "chess-bishop": [
+      "chess-bishop"
+    ],
+    "chess-board": [
+      "chess-board"
+    ],
+    "chess-king": [
+      "chess-king"
+    ],
+    "chess-knight": [
+      "chess-knight"
+    ],
+    "chess-pawn": [
+      "chess-pawn"
+    ],
+    "chess-queen": [
+      "chess-queen"
+    ],
+    "chess-rook": [
+      "chess-rook"
+    ],
+    "chevron-circle-down": [
+      "chevron-circle-down"
+    ],
+    "chevron-circle-left": [
+      "chevron-circle-left"
+    ],
+    "chevron-circle-right": [
+      "chevron-circle-right"
+    ],
+    "chevron-circle-up": [
+      "chevron-circle-up"
+    ],
+    "chevron-down": [
+      "chevron-down"
+    ],
+    "chevron-left": [
+      "chevron-left"
+    ],
+    "chevron-right": [
+      "chevron-right"
+    ],
+    "chevron-up": [
+      "chevron-up"
+    ],
+    "child": [
+      "child"
+    ],
+    "chrome": [
+      "chrome"
+    ],
+    "chromecast": [
+      "chromecast"
+    ],
+    "church": [
+      "church"
+    ],
+    "circle": [
+      "circle",
+      "circle-o",
+      "circle-thin"
+    ],
+    "circle-notch": [
+      "circle-notch",
+      "circle-o-notch"
+    ],
+    "city": [
+      "city"
+    ],
+    "clinic-medical": [
+      "clinic-medical"
+    ],
+    "clipboard": [
+      "clipboard",
+      "paste"
+    ],
+    "clipboard-check": [
+      "clipboard-check"
+    ],
+    "clipboard-list": [
+      "clipboard-list"
+    ],
+    "clock": [
+      "clock",
+      "clock-o"
+    ],
+    "clone": [
+      "clone"
+    ],
+    "closed-captioning": [
+      "closed-captioning",
+      "cc"
+    ],
+    "cloud": [
+      "cloud"
+    ],
+    "cloud-download-alt": [
+      "cloud-download-alt",
+      "cloud-download"
+    ],
+    "cloud-meatball": [
+      "cloud-meatball"
+    ],
+    "cloud-moon": [
+      "cloud-moon"
+    ],
+    "cloud-moon-rain": [
+      "cloud-moon-rain"
+    ],
+    "cloud-rain": [
+      "cloud-rain"
+    ],
+    "cloud-showers-heavy": [
+      "cloud-showers-heavy"
+    ],
+    "cloud-sun": [
+      "cloud-sun"
+    ],
+    "cloud-sun-rain": [
+      "cloud-sun-rain"
+    ],
+    "cloud-upload-alt": [
+      "cloud-upload-alt",
+      "cloud-upload"
+    ],
+    "cloudscale": [
+      "cloudscale"
+    ],
+    "cloudsmith": [
+      "cloudsmith"
+    ],
+    "cloudversify": [
+      "cloudversify"
+    ],
+    "cocktail": [
+      "cocktail"
+    ],
+    "code": [
+      "code"
+    ],
+    "code-branch": [
+      "code-branch",
+      "code-fork"
+    ],
+    "codepen": [
+      "codepen"
+    ],
+    "codiepie": [
+      "codiepie"
+    ],
+    "coffee": [
+      "coffee"
+    ],
+    "cog": [
+      "cog",
+      "gear"
+    ],
+    "cogs": [
+      "cogs",
+      "gears"
+    ],
+    "coins": [
+      "coins"
+    ],
+    "columns": [
+      "columns"
+    ],
+    "comment": [
+      "comment",
+      "comment-o"
+    ],
+    "comment-alt": [
+      "comment-alt"
+    ],
+    "comment-dollar": [
+      "comment-dollar"
+    ],
+    "comment-dots": [
+      "comment-dots",
+      "commenting",
+      "commenting-o"
+    ],
+    "comment-medical": [
+      "comment-medical"
+    ],
+    "comment-slash": [
+      "comment-slash"
+    ],
+    "comments": [
+      "comments",
+      "comments-o"
+    ],
+    "comments-dollar": [
+      "comments-dollar"
+    ],
+    "compact-disc": [
+      "compact-disc"
+    ],
+    "compass": [
+      "compass"
+    ],
+    "compress": [
+      "compress"
+    ],
+    "compress-arrows-alt": [
+      "compress-arrows-alt"
+    ],
+    "concierge-bell": [
+      "concierge-bell"
+    ],
+    "confluence": [
+      "confluence"
+    ],
+    "connectdevelop": [
+      "connectdevelop"
+    ],
+    "contao": [
+      "contao"
+    ],
+    "cookie": [
+      "cookie"
+    ],
+    "cookie-bite": [
+      "cookie-bite"
+    ],
+    "copy": [
+      "copy",
+      "files-o"
+    ],
+    "copyright": [
+      "copyright"
+    ],
+    "cotton-bureau": [
+      "cotton-bureau"
+    ],
+    "couch": [
+      "couch"
+    ],
+    "cpanel": [
+      "cpanel"
+    ],
+    "creative-commons": [
+      "creative-commons"
+    ],
+    "creative-commons-by": [
+      "creative-commons-by"
+    ],
+    "creative-commons-nc": [
+      "creative-commons-nc"
+    ],
+    "creative-commons-nc-eu": [
+      "creative-commons-nc-eu"
+    ],
+    "creative-commons-nc-jp": [
+      "creative-commons-nc-jp"
+    ],
+    "creative-commons-nd": [
+      "creative-commons-nd"
+    ],
+    "creative-commons-pd": [
+      "creative-commons-pd"
+    ],
+    "creative-commons-pd-alt": [
+      "creative-commons-pd-alt"
+    ],
+    "creative-commons-remix": [
+      "creative-commons-remix"
+    ],
+    "creative-commons-sa": [
+      "creative-commons-sa"
+    ],
+    "creative-commons-sampling": [
+      "creative-commons-sampling"
+    ],
+    "creative-commons-sampling-plus": [
+      "creative-commons-sampling-plus"
+    ],
+    "creative-commons-share": [
+      "creative-commons-share"
+    ],
+    "creative-commons-zero": [
+      "creative-commons-zero"
+    ],
+    "credit-card": [
+      "credit-card",
+      "credit-card-alt"
+    ],
+    "critical-role": [
+      "critical-role"
+    ],
+    "crop": [
+      "crop"
+    ],
+    "crop-alt": [
+      "crop-alt"
+    ],
+    "cross": [
+      "cross"
+    ],
+    "crosshairs": [
+      "crosshairs"
+    ],
+    "crow": [
+      "crow"
+    ],
+    "crown": [
+      "crown"
+    ],
+    "crutch": [
+      "crutch"
+    ],
+    "css3": [
+      "css3"
+    ],
+    "css3-alt": [
+      "css3-alt"
+    ],
+    "cube": [
+      "cube"
+    ],
+    "cubes": [
+      "cubes"
+    ],
+    "cut": [
+      "cut",
+      "scissors"
+    ],
+    "cuttlefish": [
+      "cuttlefish"
+    ],
+    "d-and-d": [
+      "d-and-d"
+    ],
+    "d-and-d-beyond": [
+      "d-and-d-beyond"
+    ],
+    "dashcube": [
+      "dashcube"
+    ],
+    "database": [
+      "database"
+    ],
+    "deaf": [
+      "deaf",
+      "deafness",
+      "hard-of-hearing"
+    ],
+    "delicious": [
+      "delicious"
+    ],
+    "democrat": [
+      "democrat"
+    ],
+    "deploydog": [
+      "deploydog"
+    ],
+    "deskpro": [
+      "deskpro"
+    ],
+    "desktop": [
+      "desktop"
+    ],
+    "dev": [
+      "dev"
+    ],
+    "deviantart": [
+      "deviantart"
+    ],
+    "dharmachakra": [
+      "dharmachakra"
+    ],
+    "dhl": [
+      "dhl"
+    ],
+    "diagnoses": [
+      "diagnoses"
+    ],
+    "diaspora": [
+      "diaspora"
+    ],
+    "dice": [
+      "dice"
+    ],
+    "dice-d20": [
+      "dice-d20"
+    ],
+    "dice-d6": [
+      "dice-d6"
+    ],
+    "dice-five": [
+      "dice-five"
+    ],
+    "dice-four": [
+      "dice-four"
+    ],
+    "dice-one": [
+      "dice-one"
+    ],
+    "dice-six": [
+      "dice-six"
+    ],
+    "dice-three": [
+      "dice-three"
+    ],
+    "dice-two": [
+      "dice-two"
+    ],
+    "digg": [
+      "digg"
+    ],
+    "digital-ocean": [
+      "digital-ocean"
+    ],
+    "digital-tachograph": [
+      "digital-tachograph"
+    ],
+    "directions": [
+      "directions"
+    ],
+    "discord": [
+      "discord"
+    ],
+    "discourse": [
+      "discourse"
+    ],
+    "divide": [
+      "divide"
+    ],
+    "dizzy": [
+      "dizzy"
+    ],
+    "dna": [
+      "dna"
+    ],
+    "dochub": [
+      "dochub"
+    ],
+    "docker": [
+      "docker"
+    ],
+    "dog": [
+      "dog"
+    ],
+    "dollar-sign": [
+      "dollar-sign",
+      "dollar",
+      "usd"
+    ],
+    "dolly": [
+      "dolly"
+    ],
+    "dolly-flatbed": [
+      "dolly-flatbed"
+    ],
+    "donate": [
+      "donate"
+    ],
+    "door-closed": [
+      "door-closed"
+    ],
+    "door-open": [
+      "door-open"
+    ],
+    "dot-circle": [
+      "dot-circle",
+      "dot-circle-o"
+    ],
+    "dove": [
+      "dove"
+    ],
+    "download": [
+      "download"
+    ],
+    "draft2digital": [
+      "draft2digital"
+    ],
+    "drafting-compass": [
+      "drafting-compass"
+    ],
+    "dragon": [
+      "dragon"
+    ],
+    "draw-polygon": [
+      "draw-polygon"
+    ],
+    "dribbble": [
+      "dribbble"
+    ],
+    "dribbble-square": [
+      "dribbble-square"
+    ],
+    "dropbox": [
+      "dropbox"
+    ],
+    "drum": [
+      "drum"
+    ],
+    "drum-steelpan": [
+      "drum-steelpan"
+    ],
+    "drumstick-bite": [
+      "drumstick-bite"
+    ],
+    "drupal": [
+      "drupal"
+    ],
+    "dumbbell": [
+      "dumbbell"
+    ],
+    "dumpster": [
+      "dumpster"
+    ],
+    "dumpster-fire": [
+      "dumpster-fire"
+    ],
+    "dungeon": [
+      "dungeon"
+    ],
+    "dyalog": [
+      "dyalog"
+    ],
+    "earlybirds": [
+      "earlybirds"
+    ],
+    "ebay": [
+      "ebay"
+    ],
+    "edge": [
+      "edge"
+    ],
+    "edit": [
+      "edit",
+      "pencil-square-o"
+    ],
+    "egg": [
+      "egg"
+    ],
+    "eject": [
+      "eject"
+    ],
+    "elementor": [
+      "elementor"
+    ],
+    "ellipsis-h": [
+      "ellipsis-h"
+    ],
+    "ellipsis-v": [
+      "ellipsis-v"
+    ],
+    "ello": [
+      "ello"
+    ],
+    "ember": [
+      "ember"
+    ],
+    "empire": [
+      "empire"
+    ],
+    "envelope": [
+      "envelope",
+      "envelope-o"
+    ],
+    "envelope-open": [
+      "envelope-open",
+      "envelope-open-o"
+    ],
+    "envelope-open-text": [
+      "envelope-open-text"
+    ],
+    "envelope-square": [
+      "envelope-square"
+    ],
+    "envira": [
+      "envira"
+    ],
+    "equals": [
+      "equals"
+    ],
+    "eraser": [
+      "eraser"
+    ],
+    "erlang": [
+      "erlang"
+    ],
+    "ethereum": [
+      "ethereum"
+    ],
+    "ethernet": [
+      "ethernet"
+    ],
+    "etsy": [
+      "etsy"
+    ],
+    "euro-sign": [
+      "euro-sign",
+      "eur",
+      "euro"
+    ],
+    "evernote": [
+      "evernote"
+    ],
+    "exchange-alt": [
+      "exchange-alt",
+      "exchange"
+    ],
+    "exclamation": [
+      "exclamation"
+    ],
+    "exclamation-circle": [
+      "exclamation-circle"
+    ],
+    "exclamation-triangle": [
+      "exclamation-triangle",
+      "warning"
+    ],
+    "expand": [
+      "expand"
+    ],
+    "expand-arrows-alt": [
+      "expand-arrows-alt",
+      "arrows-alt"
+    ],
+    "expeditedssl": [
+      "expeditedssl"
+    ],
+    "external-link-alt": [
+      "external-link-alt",
+      "external-link"
+    ],
+    "external-link-square-alt": [
+      "external-link-square-alt",
+      "external-link-square"
+    ],
+    "eye": [
+      "eye"
+    ],
+    "eye-dropper": [
+      "eye-dropper",
+      "eyedropper"
+    ],
+    "eye-slash": [
+      "eye-slash"
+    ],
+    "facebook": [
+      "facebook"
+    ],
+    "facebook-f": [
+      "facebook-f"
+    ],
+    "facebook-messenger": [
+      "facebook-messenger"
+    ],
+    "facebook-square": [
+      "facebook-square"
+    ],
+    "fan": [
+      "fan"
+    ],
+    "fantasy-flight-games": [
+      "fantasy-flight-games"
+    ],
+    "fast-backward": [
+      "fast-backward"
+    ],
+    "fast-forward": [
+      "fast-forward"
+    ],
+    "fax": [
+      "fax"
+    ],
+    "feather": [
+      "feather"
+    ],
+    "feather-alt": [
+      "feather-alt"
+    ],
+    "fedex": [
+      "fedex"
+    ],
+    "fedora": [
+      "fedora"
+    ],
+    "female": [
+      "female"
+    ],
+    "fighter-jet": [
+      "fighter-jet"
+    ],
+    "figma": [
+      "figma"
+    ],
+    "file": [
+      "file",
+      "file-o"
+    ],
+    "file-alt": [
+      "file-alt",
+      "file-text",
+      "file-text-o"
+    ],
+    "file-archive": [
+      "file-archive",
+      "file-archive-o",
+      "file-zip-o"
+    ],
+    "file-audio": [
+      "file-audio",
+      "file-audio-o",
+      "file-sound-o"
+    ],
+    "file-code": [
+      "file-code",
+      "file-code-o"
+    ],
+    "file-contract": [
+      "file-contract"
+    ],
+    "file-csv": [
+      "file-csv"
+    ],
+    "file-download": [
+      "file-download"
+    ],
+    "file-excel": [
+      "file-excel",
+      "file-excel-o"
+    ],
+    "file-export": [
+      "file-export"
+    ],
+    "file-image": [
+      "file-image",
+      "file-image-o",
+      "file-photo-o",
+      "file-picture-o"
+    ],
+    "file-import": [
+      "file-import"
+    ],
+    "file-invoice": [
+      "file-invoice"
+    ],
+    "file-invoice-dollar": [
+      "file-invoice-dollar"
+    ],
+    "file-medical": [
+      "file-medical"
+    ],
+    "file-medical-alt": [
+      "file-medical-alt"
+    ],
+    "file-pdf": [
+      "file-pdf",
+      "file-pdf-o"
+    ],
+    "file-powerpoint": [
+      "file-powerpoint",
+      "file-powerpoint-o"
+    ],
+    "file-prescription": [
+      "file-prescription"
+    ],
+    "file-signature": [
+      "file-signature"
+    ],
+    "file-upload": [
+      "file-upload"
+    ],
+    "file-video": [
+      "file-video",
+      "file-movie-o",
+      "file-video-o"
+    ],
+    "file-word": [
+      "file-word",
+      "file-word-o"
+    ],
+    "fill": [
+      "fill"
+    ],
+    "fill-drip": [
+      "fill-drip"
+    ],
+    "film": [
+      "film"
+    ],
+    "filter": [
+      "filter"
+    ],
+    "fingerprint": [
+      "fingerprint"
+    ],
+    "fire": [
+      "fire"
+    ],
+    "fire-alt": [
+      "fire-alt"
+    ],
+    "fire-extinguisher": [
+      "fire-extinguisher"
+    ],
+    "firefox": [
+      "firefox"
+    ],
+    "first-aid": [
+      "first-aid"
+    ],
+    "first-order": [
+      "first-order"
+    ],
+    "first-order-alt": [
+      "first-order-alt"
+    ],
+    "firstdraft": [
+      "firstdraft"
+    ],
+    "fish": [
+      "fish"
+    ],
+    "fist-raised": [
+      "fist-raised"
+    ],
+    "flag": [
+      "flag",
+      "flag-o"
+    ],
+    "flag-checkered": [
+      "flag-checkered"
+    ],
+    "flag-usa": [
+      "flag-usa"
+    ],
+    "flask": [
+      "flask"
+    ],
+    "flickr": [
+      "flickr"
+    ],
+    "flipboard": [
+      "flipboard"
+    ],
+    "flushed": [
+      "flushed"
+    ],
+    "fly": [
+      "fly"
+    ],
+    "folder": [
+      "folder",
+      "folder-o"
+    ],
+    "folder-minus": [
+      "folder-minus"
+    ],
+    "folder-open": [
+      "folder-open",
+      "folder-open-o"
+    ],
+    "folder-plus": [
+      "folder-plus"
+    ],
+    "font": [
+      "font"
+    ],
+    "font-awesome": [
+      "font-awesome",
+      "fa"
+    ],
+    "font-awesome-alt": [
+      "font-awesome-alt"
+    ],
+    "font-awesome-flag": [
+      "font-awesome-flag"
+    ],
+    "fonticons": [
+      "fonticons"
+    ],
+    "fonticons-fi": [
+      "fonticons-fi"
+    ],
+    "football-ball": [
+      "football-ball"
+    ],
+    "fort-awesome": [
+      "fort-awesome"
+    ],
+    "fort-awesome-alt": [
+      "fort-awesome-alt"
+    ],
+    "forumbee": [
+      "forumbee"
+    ],
+    "forward": [
+      "forward"
+    ],
+    "foursquare": [
+      "foursquare"
+    ],
+    "free-code-camp": [
+      "free-code-camp"
+    ],
+    "freebsd": [
+      "freebsd"
+    ],
+    "frog": [
+      "frog"
+    ],
+    "frown": [
+      "frown",
+      "frown-o"
+    ],
+    "frown-open": [
+      "frown-open"
+    ],
+    "fulcrum": [
+      "fulcrum"
+    ],
+    "funnel-dollar": [
+      "funnel-dollar"
+    ],
+    "futbol": [
+      "futbol",
+      "futbol-o",
+      "soccer-ball-o"
+    ],
+    "galactic-republic": [
+      "galactic-republic"
+    ],
+    "galactic-senate": [
+      "galactic-senate"
+    ],
+    "gamepad": [
+      "gamepad"
+    ],
+    "gas-pump": [
+      "gas-pump"
+    ],
+    "gavel": [
+      "gavel",
+      "legal"
+    ],
+    "gem": [
+      "gem",
+      "diamond"
+    ],
+    "genderless": [
+      "genderless"
+    ],
+    "get-pocket": [
+      "get-pocket"
+    ],
+    "gg": [
+      "gg"
+    ],
+    "gg-circle": [
+      "gg-circle"
+    ],
+    "ghost": [
+      "ghost"
+    ],
+    "gift": [
+      "gift"
+    ],
+    "gifts": [
+      "gifts"
+    ],
+    "git": [
+      "git"
+    ],
+    "git-alt": [
+      "git-alt"
+    ],
+    "git-square": [
+      "git-square"
+    ],
+    "github": [
+      "github"
+    ],
+    "github-alt": [
+      "github-alt"
+    ],
+    "github-square": [
+      "github-square"
+    ],
+    "gitkraken": [
+      "gitkraken"
+    ],
+    "gitlab": [
+      "gitlab"
+    ],
+    "gitter": [
+      "gitter"
+    ],
+    "glass-cheers": [
+      "glass-cheers"
+    ],
+    "glass-martini": [
+      "glass-martini",
+      "glass"
+    ],
+    "glass-martini-alt": [
+      "glass-martini-alt"
+    ],
+    "glass-whiskey": [
+      "glass-whiskey"
+    ],
+    "glasses": [
+      "glasses"
+    ],
+    "glide": [
+      "glide"
+    ],
+    "glide-g": [
+      "glide-g"
+    ],
+    "globe": [
+      "globe"
+    ],
+    "globe-africa": [
+      "globe-africa"
+    ],
+    "globe-americas": [
+      "globe-americas"
+    ],
+    "globe-asia": [
+      "globe-asia"
+    ],
+    "globe-europe": [
+      "globe-europe"
+    ],
+    "gofore": [
+      "gofore"
+    ],
+    "golf-ball": [
+      "golf-ball"
+    ],
+    "goodreads": [
+      "goodreads"
+    ],
+    "goodreads-g": [
+      "goodreads-g"
+    ],
+    "google": [
+      "google"
+    ],
+    "google-drive": [
+      "google-drive"
+    ],
+    "google-play": [
+      "google-play"
+    ],
+    "google-plus": [
+      "google-plus",
+      "google-plus-circle",
+      "google-plus-official"
+    ],
+    "google-plus-g": [
+      "google-plus-g"
+    ],
+    "google-plus-square": [
+      "google-plus-square"
+    ],
+    "google-wallet": [
+      "google-wallet"
+    ],
+    "gopuram": [
+      "gopuram"
+    ],
+    "graduation-cap": [
+      "graduation-cap",
+      "mortar-board"
+    ],
+    "gratipay": [
+      "gratipay"
+    ],
+    "grav": [
+      "grav"
+    ],
+    "greater-than": [
+      "greater-than"
+    ],
+    "greater-than-equal": [
+      "greater-than-equal"
+    ],
+    "grimace": [
+      "grimace"
+    ],
+    "grin": [
+      "grin"
+    ],
+    "grin-alt": [
+      "grin-alt"
+    ],
+    "grin-beam": [
+      "grin-beam"
+    ],
+    "grin-beam-sweat": [
+      "grin-beam-sweat"
+    ],
+    "grin-hearts": [
+      "grin-hearts"
+    ],
+    "grin-squint": [
+      "grin-squint"
+    ],
+    "grin-squint-tears": [
+      "grin-squint-tears"
+    ],
+    "grin-stars": [
+      "grin-stars"
+    ],
+    "grin-tears": [
+      "grin-tears"
+    ],
+    "grin-tongue": [
+      "grin-tongue"
+    ],
+    "grin-tongue-squint": [
+      "grin-tongue-squint"
+    ],
+    "grin-tongue-wink": [
+      "grin-tongue-wink"
+    ],
+    "grin-wink": [
+      "grin-wink"
+    ],
+    "grip-horizontal": [
+      "grip-horizontal"
+    ],
+    "grip-lines": [
+      "grip-lines"
+    ],
+    "grip-lines-vertical": [
+      "grip-lines-vertical"
+    ],
+    "grip-vertical": [
+      "grip-vertical"
+    ],
+    "gripfire": [
+      "gripfire"
+    ],
+    "grunt": [
+      "grunt"
+    ],
+    "guitar": [
+      "guitar"
+    ],
+    "gulp": [
+      "gulp"
+    ],
+    "h-square": [
+      "h-square"
+    ],
+    "hacker-news": [
+      "hacker-news"
+    ],
+    "hacker-news-square": [
+      "hacker-news-square"
+    ],
+    "hackerrank": [
+      "hackerrank"
+    ],
+    "hamburger": [
+      "hamburger"
+    ],
+    "hammer": [
+      "hammer"
+    ],
+    "hamsa": [
+      "hamsa"
+    ],
+    "hand-holding": [
+      "hand-holding"
+    ],
+    "hand-holding-heart": [
+      "hand-holding-heart"
+    ],
+    "hand-holding-usd": [
+      "hand-holding-usd"
+    ],
+    "hand-lizard": [
+      "hand-lizard",
+      "hand-lizard-o"
+    ],
+    "hand-middle-finger": [
+      "hand-middle-finger"
+    ],
+    "hand-paper": [
+      "hand-paper",
+      "hand-paper-o",
+      "hand-stop-o"
+    ],
+    "hand-peace": [
+      "hand-peace",
+      "hand-peace-o"
+    ],
+    "hand-point-down": [
+      "hand-point-down",
+      "hand-o-down"
+    ],
+    "hand-point-left": [
+      "hand-point-left",
+      "hand-o-left"
+    ],
+    "hand-point-right": [
+      "hand-point-right",
+      "hand-o-right"
+    ],
+    "hand-point-up": [
+      "hand-point-up",
+      "hand-o-up"
+    ],
+    "hand-pointer": [
+      "hand-pointer",
+      "hand-pointer-o"
+    ],
+    "hand-rock": [
+      "hand-rock",
+      "hand-grab-o",
+      "hand-rock-o"
+    ],
+    "hand-scissors": [
+      "hand-scissors",
+      "hand-scissors-o"
+    ],
+    "hand-spock": [
+      "hand-spock",
+      "hand-spock-o"
+    ],
+    "hands": [
+      "hands"
+    ],
+    "hands-helping": [
+      "hands-helping"
+    ],
+    "handshake": [
+      "handshake",
+      "handshake-o"
+    ],
+    "hanukiah": [
+      "hanukiah"
+    ],
+    "hard-hat": [
+      "hard-hat"
+    ],
+    "hashtag": [
+      "hashtag"
+    ],
+    "hat-cowboy": [
+      "hat-cowboy"
+    ],
+    "hat-cowboy-side": [
+      "hat-cowboy-side"
+    ],
+    "hat-wizard": [
+      "hat-wizard"
+    ],
+    "haykal": [
+      "haykal"
+    ],
+    "hdd": [
+      "hdd",
+      "hdd-o"
+    ],
+    "heading": [
+      "heading",
+      "header"
+    ],
+    "headphones": [
+      "headphones"
+    ],
+    "headphones-alt": [
+      "headphones-alt"
+    ],
+    "headset": [
+      "headset"
+    ],
+    "heart": [
+      "heart",
+      "heart-o"
+    ],
+    "heart-broken": [
+      "heart-broken"
+    ],
+    "heartbeat": [
+      "heartbeat"
+    ],
+    "helicopter": [
+      "helicopter"
+    ],
+    "highlighter": [
+      "highlighter"
+    ],
+    "hiking": [
+      "hiking"
+    ],
+    "hippo": [
+      "hippo"
+    ],
+    "hips": [
+      "hips"
+    ],
+    "hire-a-helper": [
+      "hire-a-helper"
+    ],
+    "history": [
+      "history"
+    ],
+    "hockey-puck": [
+      "hockey-puck"
+    ],
+    "holly-berry": [
+      "holly-berry"
+    ],
+    "home": [
+      "home"
+    ],
+    "hooli": [
+      "hooli"
+    ],
+    "hornbill": [
+      "hornbill"
+    ],
+    "horse": [
+      "horse"
+    ],
+    "horse-head": [
+      "horse-head"
+    ],
+    "hospital": [
+      "hospital",
+      "hospital-o"
+    ],
+    "hospital-alt": [
+      "hospital-alt"
+    ],
+    "hospital-symbol": [
+      "hospital-symbol"
+    ],
+    "hot-tub": [
+      "hot-tub"
+    ],
+    "hotdog": [
+      "hotdog"
+    ],
+    "hotel": [
+      "hotel"
+    ],
+    "hotjar": [
+      "hotjar"
+    ],
+    "hourglass": [
+      "hourglass",
+      "hourglass-o"
+    ],
+    "hourglass-end": [
+      "hourglass-end",
+      "hourglass-3"
+    ],
+    "hourglass-half": [
+      "hourglass-half",
+      "hourglass-2"
+    ],
+    "hourglass-start": [
+      "hourglass-start",
+      "hourglass-1"
+    ],
+    "house-damage": [
+      "house-damage"
+    ],
+    "houzz": [
+      "houzz"
+    ],
+    "hryvnia": [
+      "hryvnia"
+    ],
+    "html5": [
+      "html5"
+    ],
+    "hubspot": [
+      "hubspot"
+    ],
+    "i-cursor": [
+      "i-cursor"
+    ],
+    "ice-cream": [
+      "ice-cream"
+    ],
+    "icicles": [
+      "icicles"
+    ],
+    "icons": [
+      "icons"
+    ],
+    "id-badge": [
+      "id-badge"
+    ],
+    "id-card": [
+      "id-card",
+      "drivers-license",
+      "drivers-license-o",
+      "id-card-o"
+    ],
+    "id-card-alt": [
+      "id-card-alt"
+    ],
+    "igloo": [
+      "igloo"
+    ],
+    "image": [
+      "image",
+      "photo",
+      "picture-o"
+    ],
+    "images": [
+      "images"
+    ],
+    "imdb": [
+      "imdb"
+    ],
+    "inbox": [
+      "inbox"
+    ],
+    "indent": [
+      "indent"
+    ],
+    "industry": [
+      "industry"
+    ],
+    "infinity": [
+      "infinity"
+    ],
+    "info": [
+      "info"
+    ],
+    "info-circle": [
+      "info-circle"
+    ],
+    "instagram": [
+      "instagram"
+    ],
+    "intercom": [
+      "intercom"
+    ],
+    "internet-explorer": [
+      "internet-explorer"
+    ],
+    "invision": [
+      "invision"
+    ],
+    "ioxhost": [
+      "ioxhost"
+    ],
+    "italic": [
+      "italic"
+    ],
+    "itch-io": [
+      "itch-io"
+    ],
+    "itunes": [
+      "itunes"
+    ],
+    "itunes-note": [
+      "itunes-note"
+    ],
+    "java": [
+      "java"
+    ],
+    "jedi": [
+      "jedi"
+    ],
+    "jedi-order": [
+      "jedi-order"
+    ],
+    "jenkins": [
+      "jenkins"
+    ],
+    "jira": [
+      "jira"
+    ],
+    "joget": [
+      "joget"
+    ],
+    "joint": [
+      "joint"
+    ],
+    "joomla": [
+      "joomla"
+    ],
+    "journal-whills": [
+      "journal-whills"
+    ],
+    "js": [
+      "js"
+    ],
+    "js-square": [
+      "js-square"
+    ],
+    "jsfiddle": [
+      "jsfiddle"
+    ],
+    "kaaba": [
+      "kaaba"
+    ],
+    "kaggle": [
+      "kaggle"
+    ],
+    "key": [
+      "key"
+    ],
+    "keybase": [
+      "keybase"
+    ],
+    "keyboard": [
+      "keyboard",
+      "keyboard-o"
+    ],
+    "keycdn": [
+      "keycdn"
+    ],
+    "khanda": [
+      "khanda"
+    ],
+    "kickstarter": [
+      "kickstarter"
+    ],
+    "kickstarter-k": [
+      "kickstarter-k"
+    ],
+    "kiss": [
+      "kiss"
+    ],
+    "kiss-beam": [
+      "kiss-beam"
+    ],
+    "kiss-wink-heart": [
+      "kiss-wink-heart"
+    ],
+    "kiwi-bird": [
+      "kiwi-bird"
+    ],
+    "korvue": [
+      "korvue"
+    ],
+    "landmark": [
+      "landmark"
+    ],
+    "language": [
+      "language"
+    ],
+    "laptop": [
+      "laptop"
+    ],
+    "laptop-code": [
+      "laptop-code"
+    ],
+    "laptop-medical": [
+      "laptop-medical"
+    ],
+    "laravel": [
+      "laravel"
+    ],
+    "lastfm": [
+      "lastfm"
+    ],
+    "lastfm-square": [
+      "lastfm-square"
+    ],
+    "laugh": [
+      "laugh"
+    ],
+    "laugh-beam": [
+      "laugh-beam"
+    ],
+    "laugh-squint": [
+      "laugh-squint"
+    ],
+    "laugh-wink": [
+      "laugh-wink"
+    ],
+    "layer-group": [
+      "layer-group"
+    ],
+    "leaf": [
+      "leaf"
+    ],
+    "leanpub": [
+      "leanpub"
+    ],
+    "lemon": [
+      "lemon",
+      "lemon-o"
+    ],
+    "less": [
+      "less"
+    ],
+    "less-than": [
+      "less-than"
+    ],
+    "less-than-equal": [
+      "less-than-equal"
+    ],
+    "level-down-alt": [
+      "level-down-alt",
+      "level-down"
+    ],
+    "level-up-alt": [
+      "level-up-alt",
+      "level-up"
+    ],
+    "life-ring": [
+      "life-ring",
+      "life-buoy",
+      "life-saver",
+      "support"
+    ],
+    "lightbulb": [
+      "lightbulb",
+      "lightbulb-o"
+    ],
+    "line": [
+      "line"
+    ],
+    "link": [
+      "link",
+      "chain"
+    ],
+    "linkedin": [
+      "linkedin"
+    ],
+    "linkedin-in": [
+      "linkedin-in"
+    ],
+    "linode": [
+      "linode"
+    ],
+    "linux": [
+      "linux"
+    ],
+    "lira-sign": [
+      "lira-sign",
+      "try",
+      "turkish-lira"
+    ],
+    "list": [
+      "list"
+    ],
+    "list-alt": [
+      "list-alt"
+    ],
+    "list-ol": [
+      "list-ol"
+    ],
+    "list-ul": [
+      "list-ul"
+    ],
+    "location-arrow": [
+      "location-arrow"
+    ],
+    "lock": [
+      "lock"
+    ],
+    "lock-open": [
+      "lock-open"
+    ],
+    "long-arrow-alt-down": [
+      "long-arrow-alt-down",
+      "long-arrow-down"
+    ],
+    "long-arrow-alt-left": [
+      "long-arrow-alt-left",
+      "long-arrow-left"
+    ],
+    "long-arrow-alt-right": [
+      "long-arrow-alt-right",
+      "long-arrow-right"
+    ],
+    "long-arrow-alt-up": [
+      "long-arrow-alt-up",
+      "long-arrow-up"
+    ],
+    "low-vision": [
+      "low-vision"
+    ],
+    "luggage-cart": [
+      "luggage-cart"
+    ],
+    "lyft": [
+      "lyft"
+    ],
+    "magento": [
+      "magento"
+    ],
+    "magic": [
+      "magic"
+    ],
+    "magnet": [
+      "magnet"
+    ],
+    "mail-bulk": [
+      "mail-bulk"
+    ],
+    "mailchimp": [
+      "mailchimp"
+    ],
+    "male": [
+      "male"
+    ],
+    "mandalorian": [
+      "mandalorian"
+    ],
+    "map": [
+      "map",
+      "map-o"
+    ],
+    "map-marked": [
+      "map-marked"
+    ],
+    "map-marked-alt": [
+      "map-marked-alt"
+    ],
+    "map-marker": [
+      "map-marker"
+    ],
+    "map-marker-alt": [
+      "map-marker-alt",
+      "map-marker"
+    ],
+    "map-pin": [
+      "map-pin"
+    ],
+    "map-signs": [
+      "map-signs"
+    ],
+    "markdown": [
+      "markdown"
+    ],
+    "marker": [
+      "marker"
+    ],
+    "mars": [
+      "mars"
+    ],
+    "mars-double": [
+      "mars-double"
+    ],
+    "mars-stroke": [
+      "mars-stroke"
+    ],
+    "mars-stroke-h": [
+      "mars-stroke-h"
+    ],
+    "mars-stroke-v": [
+      "mars-stroke-v"
+    ],
+    "mask": [
+      "mask"
+    ],
+    "mastodon": [
+      "mastodon"
+    ],
+    "maxcdn": [
+      "maxcdn"
+    ],
+    "mdb": [
+      "mdb"
+    ],
+    "medal": [
+      "medal"
+    ],
+    "medapps": [
+      "medapps"
+    ],
+    "medium": [
+      "medium"
+    ],
+    "medium-m": [
+      "medium-m"
+    ],
+    "medkit": [
+      "medkit"
+    ],
+    "medrt": [
+      "medrt"
+    ],
+    "meetup": [
+      "meetup"
+    ],
+    "megaport": [
+      "megaport"
+    ],
+    "meh": [
+      "meh"
+    ],
+    "meh-blank": [
+      "meh-blank"
+    ],
+    "meh-rolling-eyes": [
+      "meh-rolling-eyes"
+    ],
+    "memory": [
+      "memory"
+    ],
+    "mendeley": [
+      "mendeley"
+    ],
+    "menorah": [
+      "menorah"
+    ],
+    "mercury": [
+      "mercury"
+    ],
+    "meteor": [
+      "meteor"
+    ],
+    "microchip": [
+      "microchip"
+    ],
+    "microphone": [
+      "microphone"
+    ],
+    "microphone-alt": [
+      "microphone-alt"
+    ],
+    "microphone-alt-slash": [
+      "microphone-alt-slash"
+    ],
+    "microphone-slash": [
+      "microphone-slash"
+    ],
+    "microscope": [
+      "microscope"
+    ],
+    "microsoft": [
+      "microsoft"
+    ],
+    "minus": [
+      "minus"
+    ],
+    "minus-circle": [
+      "minus-circle"
+    ],
+    "minus-square": [
+      "minus-square",
+      "minus-square-o"
+    ],
+    "mitten": [
+      "mitten"
+    ],
+    "mix": [
+      "mix"
+    ],
+    "mixcloud": [
+      "mixcloud"
+    ],
+    "mizuni": [
+      "mizuni"
+    ],
+    "mobile": [
+      "mobile"
+    ],
+    "mobile-alt": [
+      "mobile-alt",
+      "mobile",
+      "mobile-phone"
+    ],
+    "modx": [
+      "modx"
+    ],
+    "monero": [
+      "monero"
+    ],
+    "money-bill": [
+      "money-bill"
+    ],
+    "money-bill-alt": [
+      "money-bill-alt",
+      "money"
+    ],
+    "money-bill-wave": [
+      "money-bill-wave"
+    ],
+    "money-bill-wave-alt": [
+      "money-bill-wave-alt"
+    ],
+    "money-check": [
+      "money-check"
+    ],
+    "money-check-alt": [
+      "money-check-alt"
+    ],
+    "monument": [
+      "monument"
+    ],
+    "moon": [
+      "moon",
+      "moon-o"
+    ],
+    "mortar-pestle": [
+      "mortar-pestle"
+    ],
+    "mosque": [
+      "mosque"
+    ],
+    "motorcycle": [
+      "motorcycle"
+    ],
+    "mountain": [
+      "mountain"
+    ],
+    "mouse": [
+      "mouse"
+    ],
+    "mouse-pointer": [
+      "mouse-pointer"
+    ],
+    "mug-hot": [
+      "mug-hot"
+    ],
+    "music": [
+      "music"
+    ],
+    "napster": [
+      "napster"
+    ],
+    "neos": [
+      "neos"
+    ],
+    "network-wired": [
+      "network-wired"
+    ],
+    "neuter": [
+      "neuter"
+    ],
+    "newspaper": [
+      "newspaper",
+      "newspaper-o"
+    ],
+    "nimblr": [
+      "nimblr"
+    ],
+    "node": [
+      "node"
+    ],
+    "node-js": [
+      "node-js"
+    ],
+    "not-equal": [
+      "not-equal"
+    ],
+    "notes-medical": [
+      "notes-medical"
+    ],
+    "npm": [
+      "npm"
+    ],
+    "ns8": [
+      "ns8"
+    ],
+    "nutritionix": [
+      "nutritionix"
+    ],
+    "object-group": [
+      "object-group"
+    ],
+    "object-ungroup": [
+      "object-ungroup"
+    ],
+    "odnoklassniki": [
+      "odnoklassniki"
+    ],
+    "odnoklassniki-square": [
+      "odnoklassniki-square"
+    ],
+    "oil-can": [
+      "oil-can"
+    ],
+    "old-republic": [
+      "old-republic"
+    ],
+    "om": [
+      "om"
+    ],
+    "opencart": [
+      "opencart"
+    ],
+    "openid": [
+      "openid"
+    ],
+    "opera": [
+      "opera"
+    ],
+    "optin-monster": [
+      "optin-monster"
+    ],
+    "orcid": [
+      "orcid"
+    ],
+    "osi": [
+      "osi"
+    ],
+    "otter": [
+      "otter"
+    ],
+    "outdent": [
+      "outdent",
+      "dedent"
+    ],
+    "page4": [
+      "page4"
+    ],
+    "pagelines": [
+      "pagelines"
+    ],
+    "pager": [
+      "pager"
+    ],
+    "paint-brush": [
+      "paint-brush"
+    ],
+    "paint-roller": [
+      "paint-roller"
+    ],
+    "palette": [
+      "palette"
+    ],
+    "palfed": [
+      "palfed"
+    ],
+    "pallet": [
+      "pallet"
+    ],
+    "paper-plane": [
+      "paper-plane",
+      "paper-plane-o",
+      "send",
+      "send-o"
+    ],
+    "paperclip": [
+      "paperclip"
+    ],
+    "parachute-box": [
+      "parachute-box"
+    ],
+    "paragraph": [
+      "paragraph"
+    ],
+    "parking": [
+      "parking"
+    ],
+    "passport": [
+      "passport"
+    ],
+    "pastafarianism": [
+      "pastafarianism"
+    ],
+    "paste": [
+      "paste"
+    ],
+    "patreon": [
+      "patreon"
+    ],
+    "pause": [
+      "pause"
+    ],
+    "pause-circle": [
+      "pause-circle",
+      "pause-circle-o"
+    ],
+    "paw": [
+      "paw"
+    ],
+    "paypal": [
+      "paypal"
+    ],
+    "peace": [
+      "peace"
+    ],
+    "pen": [
+      "pen"
+    ],
+    "pen-alt": [
+      "pen-alt"
+    ],
+    "pen-fancy": [
+      "pen-fancy"
+    ],
+    "pen-nib": [
+      "pen-nib"
+    ],
+    "pen-square": [
+      "pen-square",
+      "pencil-square"
+    ],
+    "pencil-alt": [
+      "pencil-alt",
+      "pencil"
+    ],
+    "pencil-ruler": [
+      "pencil-ruler"
+    ],
+    "penny-arcade": [
+      "penny-arcade"
+    ],
+    "people-carry": [
+      "people-carry"
+    ],
+    "pepper-hot": [
+      "pepper-hot"
+    ],
+    "percent": [
+      "percent"
+    ],
+    "percentage": [
+      "percentage"
+    ],
+    "periscope": [
+      "periscope"
+    ],
+    "person-booth": [
+      "person-booth"
+    ],
+    "phabricator": [
+      "phabricator"
+    ],
+    "phoenix-framework": [
+      "phoenix-framework"
+    ],
+    "phoenix-squadron": [
+      "phoenix-squadron"
+    ],
+    "phone": [
+      "phone"
+    ],
+    "phone-alt": [
+      "phone-alt"
+    ],
+    "phone-slash": [
+      "phone-slash"
+    ],
+    "phone-square": [
+      "phone-square"
+    ],
+    "phone-square-alt": [
+      "phone-square-alt"
+    ],
+    "phone-volume": [
+      "phone-volume",
+      "volume-control-phone"
+    ],
+    "photo-video": [
+      "photo-video"
+    ],
+    "php": [
+      "php"
+    ],
+    "pied-piper": [
+      "pied-piper"
+    ],
+    "pied-piper-alt": [
+      "pied-piper-alt"
+    ],
+    "pied-piper-hat": [
+      "pied-piper-hat"
+    ],
+    "pied-piper-pp": [
+      "pied-piper-pp"
+    ],
+    "piggy-bank": [
+      "piggy-bank"
+    ],
+    "pills": [
+      "pills"
+    ],
+    "pinterest": [
+      "pinterest"
+    ],
+    "pinterest-p": [
+      "pinterest-p"
+    ],
+    "pinterest-square": [
+      "pinterest-square"
+    ],
+    "pizza-slice": [
+      "pizza-slice"
+    ],
+    "place-of-worship": [
+      "place-of-worship"
+    ],
+    "plane": [
+      "plane"
+    ],
+    "plane-arrival": [
+      "plane-arrival"
+    ],
+    "plane-departure": [
+      "plane-departure"
+    ],
+    "play": [
+      "play"
+    ],
+    "play-circle": [
+      "play-circle",
+      "play-circle-o"
+    ],
+    "playstation": [
+      "playstation"
+    ],
+    "plug": [
+      "plug"
+    ],
+    "plus": [
+      "plus"
+    ],
+    "plus-circle": [
+      "plus-circle"
+    ],
+    "plus-square": [
+      "plus-square",
+      "plus-square-o"
+    ],
+    "podcast": [
+      "podcast"
+    ],
+    "poll": [
+      "poll"
+    ],
+    "poll-h": [
+      "poll-h"
+    ],
+    "poo": [
+      "poo"
+    ],
+    "poo-storm": [
+      "poo-storm"
+    ],
+    "poop": [
+      "poop"
+    ],
+    "portrait": [
+      "portrait"
+    ],
+    "pound-sign": [
+      "pound-sign",
+      "gbp"
+    ],
+    "power-off": [
+      "power-off"
+    ],
+    "pray": [
+      "pray"
+    ],
+    "praying-hands": [
+      "praying-hands"
+    ],
+    "prescription": [
+      "prescription"
+    ],
+    "prescription-bottle": [
+      "prescription-bottle"
+    ],
+    "prescription-bottle-alt": [
+      "prescription-bottle-alt"
+    ],
+    "print": [
+      "print"
+    ],
+    "procedures": [
+      "procedures"
+    ],
+    "product-hunt": [
+      "product-hunt"
+    ],
+    "project-diagram": [
+      "project-diagram"
+    ],
+    "pushed": [
+      "pushed"
+    ],
+    "puzzle-piece": [
+      "puzzle-piece"
+    ],
+    "python": [
+      "python"
+    ],
+    "qq": [
+      "qq"
+    ],
+    "qrcode": [
+      "qrcode"
+    ],
+    "question": [
+      "question"
+    ],
+    "question-circle": [
+      "question-circle",
+      "question-circle-o"
+    ],
+    "quidditch": [
+      "quidditch"
+    ],
+    "quinscape": [
+      "quinscape"
+    ],
+    "quora": [
+      "quora"
+    ],
+    "quote-left": [
+      "quote-left"
+    ],
+    "quote-right": [
+      "quote-right"
+    ],
+    "quran": [
+      "quran"
+    ],
+    "r-project": [
+      "r-project"
+    ],
+    "radiation": [
+      "radiation"
+    ],
+    "radiation-alt": [
+      "radiation-alt"
+    ],
+    "rainbow": [
+      "rainbow"
+    ],
+    "random": [
+      "random"
+    ],
+    "raspberry-pi": [
+      "raspberry-pi"
+    ],
+    "ravelry": [
+      "ravelry"
+    ],
+    "react": [
+      "react"
+    ],
+    "reacteurope": [
+      "reacteurope"
+    ],
+    "readme": [
+      "readme"
+    ],
+    "rebel": [
+      "rebel"
+    ],
+    "receipt": [
+      "receipt"
+    ],
+    "record-vinyl": [
+      "record-vinyl"
+    ],
+    "recycle": [
+      "recycle"
+    ],
+    "red-river": [
+      "red-river"
+    ],
+    "reddit": [
+      "reddit"
+    ],
+    "reddit-alien": [
+      "reddit-alien"
+    ],
+    "reddit-square": [
+      "reddit-square"
+    ],
+    "redhat": [
+      "redhat"
+    ],
+    "redo": [
+      "redo",
+      "repeat",
+      "rotate-right"
+    ],
+    "redo-alt": [
+      "redo-alt"
+    ],
+    "registered": [
+      "registered"
+    ],
+    "remove-format": [
+      "remove-format"
+    ],
+    "renren": [
+      "renren"
+    ],
+    "reply": [
+      "reply",
+      "mail-reply"
+    ],
+    "reply-all": [
+      "reply-all",
+      "mail-reply-all"
+    ],
+    "replyd": [
+      "replyd"
+    ],
+    "republican": [
+      "republican"
+    ],
+    "researchgate": [
+      "researchgate"
+    ],
+    "resolving": [
+      "resolving"
+    ],
+    "restroom": [
+      "restroom"
+    ],
+    "retweet": [
+      "retweet"
+    ],
+    "rev": [
+      "rev"
+    ],
+    "ribbon": [
+      "ribbon"
+    ],
+    "ring": [
+      "ring"
+    ],
+    "road": [
+      "road"
+    ],
+    "robot": [
+      "robot"
+    ],
+    "rocket": [
+      "rocket"
+    ],
+    "rocketchat": [
+      "rocketchat"
+    ],
+    "rockrms": [
+      "rockrms"
+    ],
+    "route": [
+      "route"
+    ],
+    "rss": [
+      "rss",
+      "feed"
+    ],
+    "rss-square": [
+      "rss-square"
+    ],
+    "ruble-sign": [
+      "ruble-sign",
+      "rouble",
+      "rub",
+      "ruble"
+    ],
+    "ruler": [
+      "ruler"
+    ],
+    "ruler-combined": [
+      "ruler-combined"
+    ],
+    "ruler-horizontal": [
+      "ruler-horizontal"
+    ],
+    "ruler-vertical": [
+      "ruler-vertical"
+    ],
+    "running": [
+      "running"
+    ],
+    "rupee-sign": [
+      "rupee-sign",
+      "inr",
+      "rupee"
+    ],
+    "sad-cry": [
+      "sad-cry"
+    ],
+    "sad-tear": [
+      "sad-tear"
+    ],
+    "safari": [
+      "safari"
+    ],
+    "salesforce": [
+      "salesforce"
+    ],
+    "sass": [
+      "sass"
+    ],
+    "satellite": [
+      "satellite"
+    ],
+    "satellite-dish": [
+      "satellite-dish"
+    ],
+    "save": [
+      "save",
+      "floppy-o"
+    ],
+    "schlix": [
+      "schlix"
+    ],
+    "school": [
+      "school"
+    ],
+    "screwdriver": [
+      "screwdriver"
+    ],
+    "scribd": [
+      "scribd"
+    ],
+    "scroll": [
+      "scroll"
+    ],
+    "sd-card": [
+      "sd-card"
+    ],
+    "search": [
+      "search"
+    ],
+    "search-dollar": [
+      "search-dollar"
+    ],
+    "search-location": [
+      "search-location"
+    ],
+    "search-minus": [
+      "search-minus"
+    ],
+    "search-plus": [
+      "search-plus"
+    ],
+    "searchengin": [
+      "searchengin"
+    ],
+    "seedling": [
+      "seedling"
+    ],
+    "sellcast": [
+      "sellcast"
+    ],
+    "sellsy": [
+      "sellsy"
+    ],
+    "server": [
+      "server"
+    ],
+    "servicestack": [
+      "servicestack"
+    ],
+    "shapes": [
+      "shapes"
+    ],
+    "share": [
+      "share",
+      "mail-forward"
+    ],
+    "share-alt": [
+      "share-alt"
+    ],
+    "share-alt-square": [
+      "share-alt-square"
+    ],
+    "share-square": [
+      "share-square",
+      "share-square-o"
+    ],
+    "shekel-sign": [
+      "shekel-sign",
+      "ils",
+      "shekel",
+      "sheqel"
+    ],
+    "shield-alt": [
+      "shield-alt",
+      "shield"
+    ],
+    "ship": [
+      "ship"
+    ],
+    "shipping-fast": [
+      "shipping-fast"
+    ],
+    "shirtsinbulk": [
+      "shirtsinbulk"
+    ],
+    "shoe-prints": [
+      "shoe-prints"
+    ],
+    "shopping-bag": [
+      "shopping-bag"
+    ],
+    "shopping-basket": [
+      "shopping-basket"
+    ],
+    "shopping-cart": [
+      "shopping-cart"
+    ],
+    "shopware": [
+      "shopware"
+    ],
+    "shower": [
+      "shower"
+    ],
+    "shuttle-van": [
+      "shuttle-van"
+    ],
+    "sign": [
+      "sign"
+    ],
+    "sign-in-alt": [
+      "sign-in-alt",
+      "sign-in"
+    ],
+    "sign-language": [
+      "sign-language",
+      "signing"
+    ],
+    "sign-out-alt": [
+      "sign-out-alt",
+      "sign-out"
+    ],
+    "signal": [
+      "signal"
+    ],
+    "signature": [
+      "signature"
+    ],
+    "sim-card": [
+      "sim-card"
+    ],
+    "simplybuilt": [
+      "simplybuilt"
+    ],
+    "sistrix": [
+      "sistrix"
+    ],
+    "sitemap": [
+      "sitemap"
+    ],
+    "sith": [
+      "sith"
+    ],
+    "skating": [
+      "skating"
+    ],
+    "sketch": [
+      "sketch"
+    ],
+    "skiing": [
+      "skiing"
+    ],
+    "skiing-nordic": [
+      "skiing-nordic"
+    ],
+    "skull": [
+      "skull"
+    ],
+    "skull-crossbones": [
+      "skull-crossbones"
+    ],
+    "skyatlas": [
+      "skyatlas"
+    ],
+    "skype": [
+      "skype"
+    ],
+    "slack": [
+      "slack"
+    ],
+    "slack-hash": [
+      "slack-hash"
+    ],
+    "slash": [
+      "slash"
+    ],
+    "sleigh": [
+      "sleigh"
+    ],
+    "sliders-h": [
+      "sliders-h",
+      "sliders"
+    ],
+    "slideshare": [
+      "slideshare"
+    ],
+    "smile": [
+      "smile",
+      "smile-o"
+    ],
+    "smile-beam": [
+      "smile-beam"
+    ],
+    "smile-wink": [
+      "smile-wink"
+    ],
+    "smog": [
+      "smog"
+    ],
+    "smoking": [
+      "smoking"
+    ],
+    "smoking-ban": [
+      "smoking-ban"
+    ],
+    "sms": [
+      "sms"
+    ],
+    "snapchat": [
+      "snapchat"
+    ],
+    "snapchat-ghost": [
+      "snapchat-ghost"
+    ],
+    "snapchat-square": [
+      "snapchat-square"
+    ],
+    "snowboarding": [
+      "snowboarding"
+    ],
+    "snowflake": [
+      "snowflake",
+      "snowflake-o"
+    ],
+    "snowman": [
+      "snowman"
+    ],
+    "snowplow": [
+      "snowplow"
+    ],
+    "socks": [
+      "socks"
+    ],
+    "solar-panel": [
+      "solar-panel"
+    ],
+    "sort": [
+      "sort",
+      "unsorted"
+    ],
+    "sort-alpha-down": [
+      "sort-alpha-down",
+      "sort-alpha-asc"
+    ],
+    "sort-alpha-down-alt": [
+      "sort-alpha-down-alt",
+      "sort-alpha-desc"
+    ],
+    "sort-alpha-up": [
+      "sort-alpha-up"
+    ],
+    "sort-alpha-up-alt": [
+      "sort-alpha-up-alt"
+    ],
+    "sort-amount-down": [
+      "sort-amount-down",
+      "sort-amount-asc"
+    ],
+    "sort-amount-down-alt": [
+      "sort-amount-down-alt",
+      "sort-amount-desc"
+    ],
+    "sort-amount-up": [
+      "sort-amount-up"
+    ],
+    "sort-amount-up-alt": [
+      "sort-amount-up-alt"
+    ],
+    "sort-down": [
+      "sort-down",
+      "sort-desc"
+    ],
+    "sort-numeric-down": [
+      "sort-numeric-down",
+      "sort-numeric-asc"
+    ],
+    "sort-numeric-down-alt": [
+      "sort-numeric-down-alt",
+      "sort-numeric-desc"
+    ],
+    "sort-numeric-up": [
+      "sort-numeric-up"
+    ],
+    "sort-numeric-up-alt": [
+      "sort-numeric-up-alt"
+    ],
+    "sort-up": [
+      "sort-up",
+      "sort-asc"
+    ],
+    "soundcloud": [
+      "soundcloud"
+    ],
+    "sourcetree": [
+      "sourcetree"
+    ],
+    "spa": [
+      "spa"
+    ],
+    "space-shuttle": [
+      "space-shuttle"
+    ],
+    "speakap": [
+      "speakap"
+    ],
+    "speaker-deck": [
+      "speaker-deck"
+    ],
+    "spell-check": [
+      "spell-check"
+    ],
+    "spider": [
+      "spider"
+    ],
+    "spinner": [
+      "spinner"
+    ],
+    "splotch": [
+      "splotch"
+    ],
+    "spotify": [
+      "spotify"
+    ],
+    "spray-can": [
+      "spray-can"
+    ],
+    "square": [
+      "square",
+      "square-o"
+    ],
+    "square-full": [
+      "square-full"
+    ],
+    "square-root-alt": [
+      "square-root-alt"
+    ],
+    "squarespace": [
+      "squarespace"
+    ],
+    "stack-exchange": [
+      "stack-exchange"
+    ],
+    "stack-overflow": [
+      "stack-overflow"
+    ],
+    "stackpath": [
+      "stackpath"
+    ],
+    "stamp": [
+      "stamp"
+    ],
+    "star": [
+      "star",
+      "star-o"
+    ],
+    "star-and-crescent": [
+      "star-and-crescent"
+    ],
+    "star-half": [
+      "star-half",
+      "star-half-empty",
+      "star-half-full",
+      "star-half-o"
+    ],
+    "star-half-alt": [
+      "star-half-alt"
+    ],
+    "star-of-david": [
+      "star-of-david"
+    ],
+    "star-of-life": [
+      "star-of-life"
+    ],
+    "staylinked": [
+      "staylinked"
+    ],
+    "steam": [
+      "steam"
+    ],
+    "steam-square": [
+      "steam-square"
+    ],
+    "steam-symbol": [
+      "steam-symbol"
+    ],
+    "step-backward": [
+      "step-backward"
+    ],
+    "step-forward": [
+      "step-forward"
+    ],
+    "stethoscope": [
+      "stethoscope"
+    ],
+    "sticker-mule": [
+      "sticker-mule"
+    ],
+    "sticky-note": [
+      "sticky-note",
+      "sticky-note-o"
+    ],
+    "stop": [
+      "stop"
+    ],
+    "stop-circle": [
+      "stop-circle",
+      "stop-circle-o"
+    ],
+    "stopwatch": [
+      "stopwatch"
+    ],
+    "store": [
+      "store"
+    ],
+    "store-alt": [
+      "store-alt"
+    ],
+    "strava": [
+      "strava"
+    ],
+    "stream": [
+      "stream"
+    ],
+    "street-view": [
+      "street-view"
+    ],
+    "strikethrough": [
+      "strikethrough"
+    ],
+    "stripe": [
+      "stripe"
+    ],
+    "stripe-s": [
+      "stripe-s"
+    ],
+    "stroopwafel": [
+      "stroopwafel"
+    ],
+    "studiovinari": [
+      "studiovinari"
+    ],
+    "stumbleupon": [
+      "stumbleupon"
+    ],
+    "stumbleupon-circle": [
+      "stumbleupon-circle"
+    ],
+    "subscript": [
+      "subscript"
+    ],
+    "subway": [
+      "subway"
+    ],
+    "suitcase": [
+      "suitcase"
+    ],
+    "suitcase-rolling": [
+      "suitcase-rolling"
+    ],
+    "sun": [
+      "sun",
+      "sun-o"
+    ],
+    "superpowers": [
+      "superpowers"
+    ],
+    "superscript": [
+      "superscript"
+    ],
+    "supple": [
+      "supple"
+    ],
+    "surprise": [
+      "surprise"
+    ],
+    "suse": [
+      "suse"
+    ],
+    "swatchbook": [
+      "swatchbook"
+    ],
+    "swift": [
+      "swift"
+    ],
+    "swimmer": [
+      "swimmer"
+    ],
+    "swimming-pool": [
+      "swimming-pool"
+    ],
+    "symfony": [
+      "symfony"
+    ],
+    "synagogue": [
+      "synagogue"
+    ],
+    "sync": [
+      "sync",
+      "refresh"
+    ],
+    "sync-alt": [
+      "sync-alt"
+    ],
+    "syringe": [
+      "syringe"
+    ],
+    "table": [
+      "table"
+    ],
+    "table-tennis": [
+      "table-tennis"
+    ],
+    "tablet": [
+      "tablet"
+    ],
+    "tablet-alt": [
+      "tablet-alt",
+      "tablet"
+    ],
+    "tablets": [
+      "tablets"
+    ],
+    "tachometer-alt": [
+      "tachometer-alt",
+      "dashboard",
+      "tachometer"
+    ],
+    "tag": [
+      "tag"
+    ],
+    "tags": [
+      "tags"
+    ],
+    "tape": [
+      "tape"
+    ],
+    "tasks": [
+      "tasks"
+    ],
+    "taxi": [
+      "taxi",
+      "cab"
+    ],
+    "teamspeak": [
+      "teamspeak"
+    ],
+    "teeth": [
+      "teeth"
+    ],
+    "teeth-open": [
+      "teeth-open"
+    ],
+    "telegram": [
+      "telegram"
+    ],
+    "telegram-plane": [
+      "telegram-plane"
+    ],
+    "temperature-high": [
+      "temperature-high"
+    ],
+    "temperature-low": [
+      "temperature-low"
+    ],
+    "tencent-weibo": [
+      "tencent-weibo"
+    ],
+    "tenge": [
+      "tenge"
+    ],
+    "terminal": [
+      "terminal"
+    ],
+    "text-height": [
+      "text-height"
+    ],
+    "text-width": [
+      "text-width"
+    ],
+    "th": [
+      "th"
+    ],
+    "th-large": [
+      "th-large"
+    ],
+    "th-list": [
+      "th-list"
+    ],
+    "the-red-yeti": [
+      "the-red-yeti"
+    ],
+    "theater-masks": [
+      "theater-masks"
+    ],
+    "themeco": [
+      "themeco"
+    ],
+    "themeisle": [
+      "themeisle"
+    ],
+    "thermometer": [
+      "thermometer"
+    ],
+    "thermometer-empty": [
+      "thermometer-empty",
+      "thermometer-0"
+    ],
+    "thermometer-full": [
+      "thermometer-full",
+      "thermometer",
+      "thermometer-4"
+    ],
+    "thermometer-half": [
+      "thermometer-half",
+      "thermometer-2"
+    ],
+    "thermometer-quarter": [
+      "thermometer-quarter",
+      "thermometer-1"
+    ],
+    "thermometer-three-quarters": [
+      "thermometer-three-quarters",
+      "thermometer-3"
+    ],
+    "think-peaks": [
+      "think-peaks"
+    ],
+    "thumbs-down": [
+      "thumbs-down",
+      "thumbs-o-down"
+    ],
+    "thumbs-up": [
+      "thumbs-up",
+      "thumbs-o-up"
+    ],
+    "thumbtack": [
+      "thumbtack",
+      "thumb-tack"
+    ],
+    "ticket-alt": [
+      "ticket-alt",
+      "ticket"
+    ],
+    "times": [
+      "times",
+      "close",
+      "remove"
+    ],
+    "times-circle": [
+      "times-circle",
+      "times-circle-o"
+    ],
+    "tint": [
+      "tint"
+    ],
+    "tint-slash": [
+      "tint-slash"
+    ],
+    "tired": [
+      "tired"
+    ],
+    "toggle-off": [
+      "toggle-off"
+    ],
+    "toggle-on": [
+      "toggle-on"
+    ],
+    "toilet": [
+      "toilet"
+    ],
+    "toilet-paper": [
+      "toilet-paper"
+    ],
+    "toolbox": [
+      "toolbox"
+    ],
+    "tools": [
+      "tools"
+    ],
+    "tooth": [
+      "tooth"
+    ],
+    "torah": [
+      "torah"
+    ],
+    "torii-gate": [
+      "torii-gate"
+    ],
+    "tractor": [
+      "tractor"
+    ],
+    "trade-federation": [
+      "trade-federation"
+    ],
+    "trademark": [
+      "trademark"
+    ],
+    "traffic-light": [
+      "traffic-light"
+    ],
+    "train": [
+      "train"
+    ],
+    "tram": [
+      "tram"
+    ],
+    "transgender": [
+      "transgender",
+      "intersex"
+    ],
+    "transgender-alt": [
+      "transgender-alt"
+    ],
+    "trash": [
+      "trash"
+    ],
+    "trash-alt": [
+      "trash-alt",
+      "trash-o"
+    ],
+    "trash-restore": [
+      "trash-restore"
+    ],
+    "trash-restore-alt": [
+      "trash-restore-alt"
+    ],
+    "tree": [
+      "tree"
+    ],
+    "trello": [
+      "trello"
+    ],
+    "tripadvisor": [
+      "tripadvisor"
+    ],
+    "trophy": [
+      "trophy"
+    ],
+    "truck": [
+      "truck"
+    ],
+    "truck-loading": [
+      "truck-loading"
+    ],
+    "truck-monster": [
+      "truck-monster"
+    ],
+    "truck-moving": [
+      "truck-moving"
+    ],
+    "truck-pickup": [
+      "truck-pickup"
+    ],
+    "tshirt": [
+      "tshirt"
+    ],
+    "tty": [
+      "tty"
+    ],
+    "tumblr": [
+      "tumblr"
+    ],
+    "tumblr-square": [
+      "tumblr-square"
+    ],
+    "tv": [
+      "tv",
+      "television"
+    ],
+    "twitch": [
+      "twitch"
+    ],
+    "twitter": [
+      "twitter"
+    ],
+    "twitter-square": [
+      "twitter-square"
+    ],
+    "typo3": [
+      "typo3"
+    ],
+    "uber": [
+      "uber"
+    ],
+    "ubuntu": [
+      "ubuntu"
+    ],
+    "uikit": [
+      "uikit"
+    ],
+    "umbraco": [
+      "umbraco"
+    ],
+    "umbrella": [
+      "umbrella"
+    ],
+    "umbrella-beach": [
+      "umbrella-beach"
+    ],
+    "underline": [
+      "underline"
+    ],
+    "undo": [
+      "undo",
+      "rotate-left"
+    ],
+    "undo-alt": [
+      "undo-alt"
+    ],
+    "uniregistry": [
+      "uniregistry"
+    ],
+    "universal-access": [
+      "universal-access"
+    ],
+    "university": [
+      "university",
+      "bank",
+      "institution"
+    ],
+    "unlink": [
+      "unlink",
+      "chain-broken"
+    ],
+    "unlock": [
+      "unlock"
+    ],
+    "unlock-alt": [
+      "unlock-alt"
+    ],
+    "untappd": [
+      "untappd"
+    ],
+    "upload": [
+      "upload"
+    ],
+    "ups": [
+      "ups"
+    ],
+    "usb": [
+      "usb"
+    ],
+    "user": [
+      "user",
+      "user-o"
+    ],
+    "user-alt": [
+      "user-alt"
+    ],
+    "user-alt-slash": [
+      "user-alt-slash"
+    ],
+    "user-astronaut": [
+      "user-astronaut"
+    ],
+    "user-check": [
+      "user-check"
+    ],
+    "user-circle": [
+      "user-circle",
+      "user-circle-o"
+    ],
+    "user-clock": [
+      "user-clock"
+    ],
+    "user-cog": [
+      "user-cog"
+    ],
+    "user-edit": [
+      "user-edit"
+    ],
+    "user-friends": [
+      "user-friends"
+    ],
+    "user-graduate": [
+      "user-graduate"
+    ],
+    "user-injured": [
+      "user-injured"
+    ],
+    "user-lock": [
+      "user-lock"
+    ],
+    "user-md": [
+      "user-md"
+    ],
+    "user-minus": [
+      "user-minus"
+    ],
+    "user-ninja": [
+      "user-ninja"
+    ],
+    "user-nurse": [
+      "user-nurse"
+    ],
+    "user-plus": [
+      "user-plus"
+    ],
+    "user-secret": [
+      "user-secret"
+    ],
+    "user-shield": [
+      "user-shield"
+    ],
+    "user-slash": [
+      "user-slash"
+    ],
+    "user-tag": [
+      "user-tag"
+    ],
+    "user-tie": [
+      "user-tie"
+    ],
+    "user-times": [
+      "user-times"
+    ],
+    "users": [
+      "users",
+      "group"
+    ],
+    "users-cog": [
+      "users-cog"
+    ],
+    "usps": [
+      "usps"
+    ],
+    "ussunnah": [
+      "ussunnah"
+    ],
+    "utensil-spoon": [
+      "utensil-spoon",
+      "spoon"
+    ],
+    "utensils": [
+      "utensils",
+      "cutlery"
+    ],
+    "vaadin": [
+      "vaadin"
+    ],
+    "vector-square": [
+      "vector-square"
+    ],
+    "venus": [
+      "venus"
+    ],
+    "venus-double": [
+      "venus-double"
+    ],
+    "venus-mars": [
+      "venus-mars"
+    ],
+    "viacoin": [
+      "viacoin"
+    ],
+    "viadeo": [
+      "viadeo"
+    ],
+    "viadeo-square": [
+      "viadeo-square"
+    ],
+    "vial": [
+      "vial"
+    ],
+    "vials": [
+      "vials"
+    ],
+    "viber": [
+      "viber"
+    ],
+    "video": [
+      "video",
+      "video-camera"
+    ],
+    "video-slash": [
+      "video-slash"
+    ],
+    "vihara": [
+      "vihara"
+    ],
+    "vimeo": [
+      "vimeo"
+    ],
+    "vimeo-square": [
+      "vimeo-square"
+    ],
+    "vimeo-v": [
+      "vimeo-v"
+    ],
+    "vine": [
+      "vine"
+    ],
+    "vk": [
+      "vk"
+    ],
+    "vnv": [
+      "vnv"
+    ],
+    "voicemail": [
+      "voicemail"
+    ],
+    "volleyball-ball": [
+      "volleyball-ball"
+    ],
+    "volume-down": [
+      "volume-down"
+    ],
+    "volume-mute": [
+      "volume-mute"
+    ],
+    "volume-off": [
+      "volume-off"
+    ],
+    "volume-up": [
+      "volume-up"
+    ],
+    "vote-yea": [
+      "vote-yea"
+    ],
+    "vr-cardboard": [
+      "vr-cardboard"
+    ],
+    "vuejs": [
+      "vuejs"
+    ],
+    "walking": [
+      "walking"
+    ],
+    "wallet": [
+      "wallet"
+    ],
+    "warehouse": [
+      "warehouse"
+    ],
+    "water": [
+      "water"
+    ],
+    "wave-square": [
+      "wave-square"
+    ],
+    "waze": [
+      "waze"
+    ],
+    "weebly": [
+      "weebly"
+    ],
+    "weibo": [
+      "weibo"
+    ],
+    "weight": [
+      "weight"
+    ],
+    "weight-hanging": [
+      "weight-hanging"
+    ],
+    "weixin": [
+      "weixin"
+    ],
+    "whatsapp": [
+      "whatsapp"
+    ],
+    "whatsapp-square": [
+      "whatsapp-square"
+    ],
+    "wheelchair": [
+      "wheelchair"
+    ],
+    "whmcs": [
+      "whmcs"
+    ],
+    "wifi": [
+      "wifi"
+    ],
+    "wikipedia-w": [
+      "wikipedia-w"
+    ],
+    "wind": [
+      "wind"
+    ],
+    "window-close": [
+      "window-close",
+      "times-rectangle",
+      "times-rectangle-o",
+      "window-close-o"
+    ],
+    "window-maximize": [
+      "window-maximize"
+    ],
+    "window-minimize": [
+      "window-minimize"
+    ],
+    "window-restore": [
+      "window-restore"
+    ],
+    "windows": [
+      "windows"
+    ],
+    "wine-bottle": [
+      "wine-bottle"
+    ],
+    "wine-glass": [
+      "wine-glass"
+    ],
+    "wine-glass-alt": [
+      "wine-glass-alt"
+    ],
+    "wix": [
+      "wix"
+    ],
+    "wizards-of-the-coast": [
+      "wizards-of-the-coast"
+    ],
+    "wolf-pack-battalion": [
+      "wolf-pack-battalion"
+    ],
+    "won-sign": [
+      "won-sign",
+      "krw",
+      "won"
+    ],
+    "wordpress": [
+      "wordpress"
+    ],
+    "wordpress-simple": [
+      "wordpress-simple"
+    ],
+    "wpbeginner": [
+      "wpbeginner"
+    ],
+    "wpexplorer": [
+      "wpexplorer"
+    ],
+    "wpforms": [
+      "wpforms"
+    ],
+    "wpressr": [
+      "wpressr"
+    ],
+    "wrench": [
+      "wrench"
+    ],
+    "x-ray": [
+      "x-ray"
+    ],
+    "xbox": [
+      "xbox"
+    ],
+    "xing": [
+      "xing"
+    ],
+    "xing-square": [
+      "xing-square"
+    ],
+    "y-combinator": [
+      "y-combinator"
+    ],
+    "yahoo": [
+      "yahoo"
+    ],
+    "yammer": [
+      "yammer"
+    ],
+    "yandex": [
+      "yandex"
+    ],
+    "yandex-international": [
+      "yandex-international"
+    ],
+    "yarn": [
+      "yarn"
+    ],
+    "yelp": [
+      "yelp"
+    ],
+    "yen-sign": [
+      "yen-sign",
+      "cny",
+      "jpy",
+      "rmb",
+      "yen"
+    ],
+    "yin-yang": [
+      "yin-yang"
+    ],
+    "yoast": [
+      "yoast"
+    ],
+    "youtube": [
+      "youtube"
+    ],
+    "youtube-square": [
+      "youtube-square"
+    ],
+    "zhihu": [
+      "zhihu"
+    ]
+  }
+}

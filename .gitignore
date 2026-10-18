@@ -1,0 +1,8 @@
+node_modules/
+dist/
+public/sets/
+public/data/
+public/notice.md
+*.local
+.env
+.DS_Store

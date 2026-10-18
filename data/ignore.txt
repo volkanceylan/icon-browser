@@ -1,0 +1,104 @@
+# Icons to hide — gitignore-style, one pattern per line.
+# Paths are "<prefix>/<name>". Blank lines and lines starting with "#" are ignored.
+#
+# Examples:
+#   iconmind/*             hide a whole set
+#   */abc-*-solid          hide abc-*-solid in every set
+#   octicon/abc-*-solid    hide abc-*-solid in octicon only
+#   tabler/accessible      hide a single icon
+#   !tabler/accessible     ...but keep this one (negate an earlier match)
+#
+# Icons added via the UI ("Ignore this icon") are appended below.
+
+# globs
+[0-9][0-9]mp
+[0-9][0-9]mp-outline
+[0-9][0-9]mp-sharp
+[0-9]mp
+[0-9]mp-outline
+[0-9]mp-sharp
+baseline-[0-9][0-9]mp
+baseline-[0-9]mp
+baseline-*[0-9]k
+baseline-*[0-9]k-plus
+
+# individual ignores
+iconmind/canary
+iconmind/canary-deploy
+iconmind/canary-deploy-duotone
+iconmind/canary-duotone
+iconmind/car
+iconmind/car-dashboard-duotone
+iconoir/car
+iconoir/hand-brake
+iconoven/accelerator-pedal
+iconoven/accelerator-pedal-sharp
+iconoven/brake-caliper
+iconoven/brake-caliper-sharp
+iconoven/brake-disc-sharp
+iconoven/brake-pedal
+iconoven/brake-pedal-sharp
+iconoven/brake-warning
+iconoven/brake-warning-sharp
+iconoven/car-ac-sharp
+iconoven/drum-brake
+iconoven/drum-brake-sharp
+iconoven/fruit-picker
+iconoven/fruit-picker-sharp
+iconoven/parking-brake-light
+iconoven/parking-brake-light-sharp
+iconoven/parking-brake-light-sharp
+iconoven/root-canal-sharp
+mdi/anti-lock-brake-system
+mdi/car-battery
+mdi/car-brake-alert
+mdi/car-brake-fluid-level
+mdi/car-brake-hold
+mdi/car-brake-low-pressure
+mdi/car-brake-retarder
+mdi/car-brake-warning
+mdi/car-brake-worn-linings
+mdi/car-emergency-brake
+mdi/car-hand-brake
+mdi/car-handbrake
+mdi/arrow-compress-all
+iconmind/agent-review-score-duotone
+iconmind/agent-quota-duotone
+iconmind/activation-duotone
+iconmind/activity-ring-duotone
+iconmind/accessibility-test-duotone
+mingcute/airplay-fill
+duo-icons/airplay
+reicon/airpod
+hugeicons/airpod-01
+tabler/alert-small-off
+iconmind/dashboard-panel-duotone
+fluent-color/data-area-24
+fluent-color/data-area-20
+fluent-color/data-bar-vertical-ascending-20
+fluent-color/data-bar-vertical-ascending-16
+iconmind/data-augment-duotone
+keyline-icons/a-arrow-down-sharp-duotone
+keyline-icons/a-arrow-up-sharp-duotone
+iconmind/ab-test-duotone
+iconmind/add-checkpoint-duotone
+iconmind/active-minutes-duotone
+iconmind/avalanche-duotone
+iconmind/account-open-duotone
+iconmind/account-number-duotone
+iconmind/account-close-duotone
+iconmind/accordion-duotone
+fluent-color/calendar-16
+fluent-color/calendar-20
+fluent-color/calendar-24
+fluent-color/calendar-28
+fluent-color/calendar-32
+fluent-color/calendar-edit-20
+fluent-color/calendar-edit-24
+fluent-color/clipboard-task-20
+fluent-color/book-open-32
+fluent-color/book-open-28
+fluent-color/book-open-24
+fluent-color/book-open-20
+fluent-color/table-24
+fluent-color/table-20

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Icon Browser</title>
+  <script>
+    // Resolve the theme before first paint to avoid a flash of the wrong theme.
+    (function () {
+      try {
+        var mode = localStorage.getItem("icon-browser:theme");
+        var dark =
+          mode === "dark" ||
+          ((mode === null || mode === "system") &&
+            matchMedia("(prefers-color-scheme: dark)").matches);
+        document.documentElement.dataset.theme = dark ? "dark" : "light";
+      } catch (e) {
+        document.documentElement.dataset.theme = "light";
+      }
+    })();
+  </script>
+</head>
+<body>
+  <header class="toolbar">
+    <div class="toolbar-inner">
+      <button id="about" class="brand" type="button" aria-label="About and notices"
+              aria-expanded="false" title="About and notices">
+        <i id="about-icon" class="svg-bg-icon"></i>
+        <span class="brand-text">Icon Browser</span>
+      </button>
+      <input id="search" class="search" type="search" placeholder="Search icons... (prefix:name, e.g. la:home)"
+             autocomplete="off" autocapitalize="off" spellcheck="false" />
+      <span id="count" class="count"></span>
+      <button id="filter" class="toolbar-button" type="button" aria-label="Icon set filters" aria-expanded="false">
+        <i class="svg-icon"></i>
+      </button>
+      <button id="theme" class="toolbar-button" type="button" aria-label="Toggle theme">
+        <i class="svg-icon"></i>
+      </button>
+    </div>
+  </header>
+
+  <main id="content" class="content">
+    <div id="grid" class="grid"></div>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <div id="menu" class="menu" hidden></div>
+  <div id="settings" class="settings" hidden>
+    <div class="settings-group">
+      <div class="settings-title">Style</div>
+      <div id="style-list" class="set-list style-grid"></div>
+    </div>
+    <div class="settings-group settings-group-grow">
+      <div class="settings-title">Sets</div>
+      <input id="set-search" class="set-search" type="search" placeholder="Filter sets..."
+             autocomplete="off" autocapitalize="off" spellcheck="false" />
+      <label class="set-all">
+        <input id="set-all" type="checkbox" checked />
+        <span>All sets</span>
+      </label>
+      <div id="set-list" class="set-list"></div>
+    </div>
+  </div>
+
+  <div id="notice-backdrop" class="notice-backdrop" hidden></div>
+  <div id="notice" class="notice" hidden role="dialog" aria-modal="true" aria-label="About and notices">
+    <button id="notice-close" class="notice-close" type="button" aria-label="Close">&times;</button>
+    <div id="notice-body" class="notice-body"></div>
+  </div>
+
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>
